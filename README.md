@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js,Node.js,Python, React Native**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,PHP,MYSQL**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, PHP, MYSQL**
 
 - 📫 How to reach me **armandbenjamin30@gmail.com**
 
