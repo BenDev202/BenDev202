@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm armand benjamin</h1>
+<h1 align="center">Hi 👋, I'm Armand Benjamin</h1>
 <h3 align="center">A passionate frontend developer from Rwanda</h3>
 
 - 🔭 I’m currently working on **Chat Application**
 
-- 🌱 I’m currently learning **React.js,Node.js,Python, React Native**
+- 🌱 I’m currently learning **React.js, Node.js, Python, React Native**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, PHP, MYSQL**
 
 - 📫 How to reach me **armandbenjamin30@gmail.com**
 
-- ⚡ Fun fact **I'am Funny**
+- ⚡ Fun fact **The first computer bug was a real bug—a moth! In 1947, engineers found a moth causing issues in a Harvard Mark II computer, and they logged it as the first "bug." 🐛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
