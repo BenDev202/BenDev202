@@ -1,5 +1,11 @@
+<h1 align="center">Hey there 👋</h1>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <img height="150" src="https://www.udacity.com/_next/image?url=%2Fimages%2Fprogram-fallbacks%2F8.png&w=640&q=10053d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="200" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=790b7611mn149vlc0gpqhpmqzr81dspollhaqtmgzukt5hck&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
@@ -22,10 +28,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=BenDev202.BenDev202&"  />
 </div>
-
-###
-
-<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -83,5 +85,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/BenDev202/count.svg?"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/BenDev202/BenDev202/output/snake.svg" alt="Snake animation" />
 
 ###
