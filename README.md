@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Armand Benjamin</h1>
 <h3 align="center">A passionate frontend developer from Rwanda</h3>
 
-- 🔭 I’m currently working on **Chat Application**
+- 🔭 I’m currently working on **Chat Application, Transport System, Github Api**
 
 - 🌱 I’m currently learning **React.js, Node.js, Python, React Native**
 
