@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **armandbenjamin30@gmail.com**
 
-- ⚡ Fun fact **The first computer bug was a real bug—a moth! In 1947, engineers found a moth causing issues in a Harvard Mark II computer, and they logged it as the first "bug." 🐛**
+- ⚡ Fun fact **I'am so funny if you see me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
