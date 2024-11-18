@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **armandbenjamin30@gmail.com**
 
-- ⚡ Fun fact **I'am so funny if you see me**
+- ⚡ Fun fact **I'am so funny if you see me I like to tell joke and listen to jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
