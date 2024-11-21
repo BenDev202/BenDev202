@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Armand Benjamin from Rwanda<br><br>- 🔭 I’m working as Web developer and Backend developer<br>- 📚 I'm currently learning React Native and python<br>- ⚡ In my free time I coding and collaborate with other, learn new thing</p>
+<p align="left">I'm Armand Benjamin from Rwanda<br><br>- 🔭 I’m working as Web developer and Backend developer<br>- 📚 I'm currently learning React Native, Web3 and python<br>- ⚡ In my free time I coding and collaborate with other, learn new thing</p>
 
 ###
 
