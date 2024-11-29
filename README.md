@@ -88,7 +88,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/BenDev202/BenDev202/output/snake.svg" alt="Snake animation" />
-
-###
