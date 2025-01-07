@@ -1,7 +1,7 @@
 # Hey There 👋
 
 ## I'am Rukizangabo Armand Benjamin 
-## a Web developer and Backend developer
+## A Web developer and Backend developer
 
 ## 💫 About Me:
 - 🔭 I’m working as Web developer and Backend developer<br>- 📚 I'm currently learning React Native, Web3 and Next.js and three.js<br>- ⚡ In my free time I coding and collaborate with other, learn new thing<br>- ✨  if you see me i am funny 
