@@ -30,7 +30,7 @@ A music application that allows users to stream and discover their favorite musi
 
 An application for managing transportation logistics, helping organizations streamline their operations.
 
-### 12 other repositories
+### 17 other repositories
 
 I have created and contributed to various other repositories showcasing my versatility and expertise in different software development fields.
 
@@ -44,12 +44,10 @@ I have created and contributed to various other repositories showcasing my versa
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BenDev202)](https://github.com/BenDev202)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BenDev202)](https://git.io/streak-stats)
-
 ## Contact Information
 
 - Email: armandbenjamin30@gmail.com
-- instagram: armand_benjamin
+- instagram: armand_benjamin50
 
 ## About Me
 
