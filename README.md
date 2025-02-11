@@ -48,10 +48,8 @@ I have created and contributed to various other repositories showcasing my versa
 
 ## Contact Information
 
-- Email: benjaminarmandrug@gmail.com
-- LinkedIn: [Rukizangabo Armand Benjamin](https://www.linkedin.com/in/armand-rukizangabo-50839818a/)
-- Twitter: [@BenDev202](https://twitter.com/BenDev202)
-- Website: [bendev202.github.io](https://bendev202.github.io/)
+- Email: armandbenjamin30@gmail.com
+- instagram: armand_benjamin
 
 ## About Me
 
