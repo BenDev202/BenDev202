@@ -1,64 +1,70 @@
-# Rukizangabo Armand Benjamin
+# 👋 Hi, I'm Rukizangabo Armand Benjamin
 
 [![GitHub followers](https://img.shields.io/github/followers/BenDev202?style=social)](https://github.com/BenDev202)
+[![Twitter Follow](https://img.shields.io/twitter/follow/armand_benjamin50?style=social)](https://twitter.com/armand_benjamin50)
 
+## 👨‍💻 About Me
 
-Passionate and goal-driven Web developer | Backend engineer
+I'm a passionate and goal-driven Web Developer | Backend Engineer based in Rwanda, currently working at [@DevSphere](https://github.com/DevSphere). I specialize in creating innovative and impactful solutions with a focus on backend system design and user-friendly applications.
 
-## Summary
+### 🚀 What I Do
 
-I am a passionate and goal-driven developer committed to creating innovative and impactful solutions. With expertise in backend system design and a strong command of programming languages like PHP, JavaScript, and Node.js, I excel at delivering efficient and user-friendly applications. I am skilled in working with MySQL, MongoDB, HTML, CSS, and Tailwind CSS, leveraging these tools to build responsive and scalable solutions. My approach emphasizes creativity, resilience, and a focus on real-world problem-solving, making me eager to contribute to meaningful projects and continually grow as a developer.
+- Build responsive and scalable web applications
+- Design efficient backend systems
+- Develop user-friendly interfaces
+- Create innovative solutions for real-world problems
 
-## Skills
+## 🛠️ Technical Skills
 
-- PHP
-- JavaScript
-- Node.js
-- MySQL
-- MongoDB
-- HTML
-- CSS
-- Tailwind CSS
+### Languages & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## Projects
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### MUSIC App
+## 🎯 Featured Projects
 
-A music application that allows users to stream and discover their favorite music.
+### 🎵 MUSIC App
+A sophisticated music streaming application that enables users to:
+- Stream their favorite music
+- Discover new artists and tracks
+- Create and manage playlists
+- Enjoy a seamless listening experience
 
-### Transport Management System
+### 🚚 Transport Management System
+An efficient logistics management solution that helps organizations:
+- Track vehicle fleet in real-time
+- Optimize delivery routes
+- Manage transportation schedules
+- Generate comprehensive reports
 
-An application for managing transportation logistics, helping organizations streamline their operations.
+## 📈 GitHub Stats
 
-### 17 other repositories
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev202&layout=compact&theme=radical)
 
-I have created and contributed to various other repositories showcasing my versatility and expertise in different software development fields.
+## 🤝 Let's Connect
 
-## GitHub Stats
+- 💼 [LinkedIn](https://linkedin.com/in/rukizangabo-armand-benjamin)
+- 🐦 [Twitter](https://twitter.com/armand_benjamin50)
+- 📧 Email: [Contact Me](mailto:your.email@example.com)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=BenDev202)
+## 💡 Philosophy
 
-## Top Languages
+> "I believe in creating solutions that not only solve problems but also enhance user experiences. My approach emphasizes creativity, resilience, and a focus on real-world problem-solving."
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev202)
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BenDev202)](https://github.com/BenDev202)
+### 📊 Weekly Development Breakdown
 
-## Contact Information
-
-- Email: armandbenjamin30@gmail.com
-- instagram: armand_benjamin50
-
-## About Me
-
-Describe myself here... (Goes here, min 500 words)
-
-With a focus on web development and backend programming, I have actively engaged in various coding projects and open-source contributions on GitHub. My passion for software development and backend system design has driven me to work on projects that utilize my skills in PHP, JavaScript, and Node.js. Through these projects, I have gained proficiency in popular web development languages such as HTML and CSS, as well as the versatile CSS framework, Tailwind CSS.
-
-In my role as a Web Developer and Backend Developer at @Devsphere Company, I have taken part in multiple professional software development projects, showcasing my ability to work collaboratively in a fast-paced environment. Through these experiences, I have deepened my understanding of the importance of efficient, maintainable code and effective project documentation.
-
-Over time, I have remained committed to continuously improving my skillset and staying up to date with emerging technologies and trends. This ensures my ability to deliver solutions that align with industry best practices and meet the expectations of users and stakeholders.
-
-As an active GitHub user, I have demonstrated a strong commitment to my craft through consistent engagement, as reflected in my 82 commits. Although the specific programming languages used most frequently are not explicitly mentioned, an exploration of my repositories clearly showcases my proficiency in JavaScript, CSS, HTML, PHP, and other languages commonly associated with web development projects. Furthermore, with 14 public repositories and additional contributions, I exude versatility across different fields and projects.
-
-If you are looking for a passionate and skilled developer who values quality and efficiency, I would love to connect and explore collaboration opportunities. Feel free to reach out via email or connect with me on LinkedIn or Twitter. For more details on my experience, skills, and recent projects, please visit my GitHub profile. Together, let's work on creating meaningful and impactful solutions that make a difference.
+```text
+PHP          █████████░░   45%
+JavaScript   ████████░░░   40%
+HTML/CSS     ████░░░░░░░   20%
+Node.js      ███░░░░░░░░   15%
