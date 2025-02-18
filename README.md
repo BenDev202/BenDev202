@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://sjc.microlink.io/IgjG4QLAKG8OkUabAQL8a6dzzTfZSb2V_aCYjs9V18WS3sUi6LOamWsg1D-gEId2WZ6mZd7H-A3KmS5yG3XyTg.jpeg" alt="BenDev202 Banner" width="100%" />
+  <img src="https://github.com/BenDev202/BenDev202/blob/main/Black%20and%20Gray%20Minimalist%20LinkedIn%20Banner.png" alt="BenDev202 Banner" width="100%" />
   
   # Learn. Build. Deploy.
   ## Production-Ready Applications
