@@ -17,7 +17,7 @@
 
 <h3 align="center">Music Streaming Platform</h3>
 <div align="center">
-<a href="https://github.com/BenDev202/music-app" target="_blank"><img src="https://raw.githubusercontent.com/BenDev202/MUSIC-App/main/screenshot.jpg" alt="Music App Screenshot">
+<a href="https://github.com/BenDev202/music-app" target="_blank">
 </a>
 <p>
 <a href="https://github.com/BenDev202/music-app" target="_blank">
@@ -36,7 +36,7 @@
 
 <h3 align="center">SmartHome Web</h3>
 <div align="center">
-<a href="https://github.com/BenDev202/Transport-Management-System" target="_blank"><img src="https://github.com/BenDev202/Smarthome/blob/main/Screenshot.png"/></a>
+<a href="https://github.com/BenDev202/Transport-Management-System" target="_blank"></a>
 <p>
 <a href="https://github.com/BenDev202/Transport-Management-System" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
