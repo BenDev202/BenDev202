@@ -52,8 +52,9 @@ An efficient logistics management solution that helps organizations:
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/rukizangabo-armand-benjamin)
-- 🐦 [Twitter](https://twitter.com/armand_benjamin50)
-- 📧 Email: [Contact Me](mailto:your.email@example.com)
+- 𝕏 [Twitter](https://twitter.com/armand_benjamin50)
+- 📸 [Instagram](https://instagram.com/armand_benjamin50)
+- 📧 Email: [Contact Me](mailto:armandbenjamin30@gmail.com)
 
 ## 💡 Philosophy
 
