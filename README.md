@@ -36,10 +36,10 @@
 
 <h3 align="center">SmartHome Web</h3>
 <div align="center">
-<a href="https://github.com/BenDev202/Transport-Management-System" target="_blank"><img src="/placeholder.svg?height=300&width=400" width="400" alt="Transport System"/></a>
+<a href="https://github.com/BenDev202/Transport-Management-System" target="_blank"><img src="https://github.com/BenDev202/Smarthome/blob/main/Screenshot.png"/></a>
 <p>
 <a href="https://github.com/BenDev202/Transport-Management-System" target="_blank">
-<img src="https://github.com/BenDev202/Smarthome/blob/main/Screenshot.png"/>
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 <a href="https://transport-system-demo.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/LIVE-00C7BD?style=for-the-badge&logo=vercel&logoColor=white"/>
