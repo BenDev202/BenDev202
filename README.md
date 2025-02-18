@@ -17,7 +17,7 @@
 
 <h3 align="center">Music Streaming Platform</h3>
 <div align="center">
-<a href="https://github.com/BenDev202/music-app" target="_blank"><img src="![screenshot-1](screenshot.jpg)" width="400" alt="Music App"/></a>
+<a href="https://github.com/BenDev202/music-app" target="_blank"><img src="[![screenshot-1](screenshot.jpg)](https://github.com/BenDev202/MUSIC-App/blob/main/screenshot.jpg)" width="400" alt="Music App"/></a>
 <p>
 <a href="https://github.com/BenDev202/music-app" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
