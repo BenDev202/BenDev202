@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rukizangabo Armand Benjamin
 
 [![GitHub followers](https://img.shields.io/github/followers/BenDev202?style=social)](https://github.com/BenDev202)
-[![Twitter Follow](https://img.shields.io/twitter/follow/armand_benjamin50?style=social)](https://twitter.com/armand_benjamin50)
+[![instagram Follow](https://img.shields.io/instagram/follow/armand_benjamin50?style=social)](https://instagram.com/armand_benjamin50)
 
 ## 👨‍💻 About Me
 
