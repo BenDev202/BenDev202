@@ -1,83 +1,62 @@
 <div align="center">
   <img src="https://github.com/BenDev202/BenDev202/blob/main/Black%20and%20Gray%20Minimalist%20LinkedIn%20Banner.png" alt="BenDev202 Banner" width="100%" />
   
-  # Learn. Build. Deploy.
-  ## Production-Ready Applications
+  # 🚀 Learn. Build. Deploy.  
+  ## Turning Ideas into Production-Ready Applications  
   
   [![GitHub followers](https://img.shields.io/github/followers/BenDev202?style=social)](https://github.com/BenDev202)
   [![Twitter Follow](https://img.shields.io/twitter/follow/armand_benjamin50?style=social)](https://twitter.com/armand_benjamin50)
 </div>
 
-## Featured Repositories
+---
+
+## 📌 Featured Repositories
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-<h3 align="center">Music Streaming Platform</h3>
-<div align="center">
-<a href="https://github.com/BenDev202/music-app" target="_blank">
-</a>
-<p>
-<a href="https://github.com/BenDev202/music-app" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-<a href="https://music-app-demo.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/LIVE-00C7BD?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
-<p><strong>PHP, Node.js, MongoDB, Express.js</strong> - A comprehensive music streaming platform that allows users to discover, stream, and manage their favorite music. Features include playlist creation, artist discovery, and real-time streaming.</p>
-</div>
-                                                                                      
+### 🎵 Music Streaming Platform
+- **Tech Stack**: PHP, Node.js, MongoDB, Express.js
+- **Features**: Playlist creation, artist discovery, real-time streaming.
+- [🔗 View Code](https://github.com/BenDev202/music-app) | [🚀 Live Demo](https://music-app-demo.vercel.app)
+
 </td>
 
 <td width="50%">
 
-<h3 align="center">SmartHome Web</h3>
-<div align="center">
-<a href="https://github.com/BenDev202/Transport-Management-System" target="_blank"></a>
-<p>
-<a href="https://github.com/BenDev202/Transport-Management-System" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-<a href="https://transport-system-demo.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/LIVE-00C7BD?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
-<p><strong>PHP, MySQL, JavaScript, Tailwind CSS</strong> - An enterprise-level transport management solution for tracking vehicles, optimizing routes, and managing logistics operations efficiently.</p>
-</div>
+### 🚛 Smart Transport Management System
+- **Tech Stack**: PHP, MySQL, JavaScript, Tailwind CSS
+- **Features**: Vehicle tracking, route optimization, logistics management.
+- [🔗 View Code](https://github.com/BenDev202/Transport-Management-System) | [🚀 Live Demo](https://transport-system-demo.vercel.app)
+
 </td>
 </tr>
 </table>
 </div>
 
-## About Me
+---
 
-🚀 Full Stack Developer passionate about creating scalable solutions  
-👨‍💻 Currently working at [@DevSphere](https://github.com/DevSphere)  
-🌍 Based in Rwanda  
-📚 Constantly learning and sharing knowledge  
-🤝 Open to collaborations and new opportunities
+## 🛠 About Me  
+- 💻 **Full Stack Developer** passionate about scalable solutions.  
+- 🎯 Building efficient backend systems with PHP & Node.js.  
+- 🌍 Based in **Rwanda**, actively contributing to tech projects.  
+- 🤝 Open to collaborations and opportunities!  
 
-### What I Do
+---
 
-- Build responsive and scalable web applications
-- Design efficient backend systems
-- Develop user-friendly interfaces
-- Create innovative solutions for real-world problems
-
-## Technologies
+## 🛠 Tech Stack
 
 <div align="center">
 
-### Backend Development
+### **Backend Development**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Frontend Development
+### **Frontend Development**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -85,17 +64,21 @@
 
 </div>
 
-## GitHub Statistics
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy" alt="BenDev202's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=radical" alt="BenDev202's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenDev202&theme=buefy" alt="BenDev202's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenDev202&theme=radical" alt="BenDev202's GitHub Streak" />
 </div>
 
-## Let's Connect
+---
+
+## 🔗 Let's Connect
 
 <div align="center">
   <a href="https://twitter.com/armand_benjamin50">
@@ -112,7 +95,7 @@
 ---
 
 <div align="center">
-  <p>🌟 If you like my projects, you can support me by starring the repositories!</p>
+  <p>🌟 If you like my projects, star the repositories and let's connect!</p>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=BenDev202&color=blueviolet)
 </div>
