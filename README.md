@@ -228,13 +228,7 @@ const developer = {
           <div align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev202&hide_border=true&layout=compact&theme=tokyonight" align="center" />
           </div>
-          <!-- Latest Blog Posts -->
-          <h2 id="latest-blog-posts">
-            <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="30">
-            Latest Blog Posts
-          </h2>
-          
-          <!-- Let's Connect -->
+
    <h2 id="lets-connect">
             <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
             Let's Connect!
