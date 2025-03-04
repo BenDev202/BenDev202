@@ -224,11 +224,10 @@ const developer = {
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenDev202&theme=tokyonight&hide_border=true" align="center" />
           </div>
           <br/>
-
           <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev202&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+            <img src="https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&theme=radical" alt="GitHub Stats" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev202&layout=compact&theme=radical" alt="Top Languages" />
+          </p>
 
    <h2 id="lets-connect">
             <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
