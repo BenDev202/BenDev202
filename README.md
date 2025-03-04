@@ -39,7 +39,6 @@ const developer = {
   funFact: "I can debug code faster than I can find my keys in the morning!"
 };
 ```
-
 <p>
   <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   💻 <b>Full Stack Developer</b> passionate about scalable solutions.<br>
@@ -215,32 +214,26 @@ const developer = {
               </td>
             </tr>
           </table>
-          </div>
-          
+</div>       
           <!-- GitHub Stats -->
           <h2 id="github-statistics">
             <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 
             GitHub Statistics
           </h2>
-          
-          <div align="center">
+           <div align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" />
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenDev202&theme=tokyonight&hide_border=true" align="center" />
           </div>
-          
           <br/>
-          
           <div align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev202&hide_border=true&layout=compact&theme=tokyonight" align="center" />
           </div>
-          
           <!-- Latest Blog Posts -->
           <h2 id="latest-blog-posts">
             <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="30">
             Latest Blog Posts
           </h2>
-          
-          <!-- BLOG-POST-LIST:START -->
+          <!-- BLOG-POST-LIST-->
           - [Optimizing Backend Performance: Tips and Tricks](https://dev.to/bendev202/optimizing-backend-performance-tips-and-tricks-4n2)
           - [Building Scalable Microservices with Node.js](https://dev.to/bendev202/building-scalable-microservices-with-nodejs-3fj9)
           - [Advanced PHP Techniques for Modern Web Development](https://dev.to/bendev202/advanced-php-techniques-for-modern-web-development-2k3h)
@@ -248,12 +241,12 @@ const developer = {
           <!-- BLOG-POST-LIST:END -->
           
           <!-- Let's Connect -->
-          <h2 id="lets-connect">
+   <h2 id="lets-connect">
             <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
             Let's Connect!
           </h2>
           
-          <p align="center">
+  <p align="center">
             <a href="https://twitter.com/armand_benjamin50" target="_blank">
               <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
             </a>
@@ -265,8 +258,8 @@ const developer = {
             </a>
           </p>
           
-          <p align="center">Feel free to reach out for collaborations or just a friendly chat! 😊</p>
+ <p align="center">Feel free to reach out for collaborations or just a friendly chat! 😊</p>
           
-          <div align="center">
+  <div align="center">
             <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
           </div>
