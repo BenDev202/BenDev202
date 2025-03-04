@@ -225,6 +225,11 @@ const developer = {
           </div>
           <br/>
 
+          <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev202&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
    <h2 id="lets-connect">
             <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
             Let's Connect!
