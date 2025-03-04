@@ -114,7 +114,6 @@ const developer = {
     </tr>
   </table>
 </div>
-
 <!-- Featured Projects with Animation -->
 
 <h2 id="featured-projects">
