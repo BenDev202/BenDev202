@@ -90,17 +90,17 @@ const developer = {
 
 <div align="center">
   <h3>Backend Development</h3>
-  <img src="https://img.shields.io/badge/PHP-90%25-777BB4" width="80%">
-  <img src="https://img.shields.io/badge/Node.js-85%25-339933" width="80%">
-  <img src="https://img.shields.io/badge/MySQL-80%25-4479A1" width="80%">
-  <img src="https://img.shields.io/badge/MongoDB-75%25-47A248" width="80%">
-  <img src="https://img.shields.io/badge/API%20Design-70%25-FF6C37" width="80%">
+  <img src="https://img.shields.io/badge/PHP-90%25-777BB4" width="40%">
+  <img src="https://img.shields.io/badge/Node.js-85%25-339933" width="40%">
+  <img src="https://img.shields.io/badge/MySQL-80%25-4479A1" width="40%">
+  <img src="https://img.shields.io/badge/MongoDB-75%25-47A248" width="40%">
+  <img src="https://img.shields.io/badge/API%20Design-70%25-FF6C37" width="40%">
 
   <h3>Frontend & DevOps</h3>
-  <img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E" width="80%">
-  <img src="https://img.shields.io/badge/HTML%2FCSS-75%25-E34F26" width="80%">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-70%25-06B6D4" width="80%">
-  <img src="https://img.shields.io/badge/Docker-65%25-2496ED" width="80%">
+  <img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E" width="40%">
+  <img src="https://img.shields.io/badge/HTML%2FCSS-75%25-E34F26" width="40%">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-70%25-06B6D4" width="40%">
+  <img src="https://img.shields.io/badge/Docker-65%25-2496ED" width="40%">
   <img src="https://img.shields.io/badge/CI%2FCD-60%25-4285F4" width="80%">
 </div>
 
