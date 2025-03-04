@@ -22,16 +22,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
 </div>
 
-<!-- Quick Links Navigation -->
-<p align="center">
-  <a href="#about-me">About Me</a> •
-  <a href="#featured-projects">Projects</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#github-statistics">Stats</a> •
-  <a href="#latest-blog-posts">Blog</a> •
-  <a href="#lets-connect">Connect</a>
-</p>
-
 <!-- About Me Section with Animation -->
 <h2 id="about-me">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
@@ -48,6 +38,7 @@ const developer = {
   hobbies: ["Coding", "Music", "Reading"],
   funFact: "I can debug code faster than I can find my keys in the morning!"
 };
+```
 
 <p>
   <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
