@@ -224,9 +224,6 @@ const developer = {
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenDev202&theme=tokyonight&hide_border=true" align="center" />
           </div>
           <br/>
-          <div align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev202&hide_border=true&layout=compact&theme=tokyonight" align="center" />
-          </div>
 
    <h2 id="lets-connect">
             <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
