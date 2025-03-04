@@ -233,12 +233,6 @@ const developer = {
             <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="30">
             Latest Blog Posts
           </h2>
-          <!-- BLOG-POST-LIST-->
-          - [Optimizing Backend Performance: Tips and Tricks](https://dev.to/bendev202/optimizing-backend-performance-tips-and-tricks-4n2)
-          - [Building Scalable Microservices with Node.js](https://dev.to/bendev202/building-scalable-microservices-with-nodejs-3fj9)
-          - [Advanced PHP Techniques for Modern Web Development](https://dev.to/bendev202/advanced-php-techniques-for-modern-web-development-2k3h)
-          - [Mastering Database Design: Best Practices and Pitfalls](https://dev.to/bendev202/mastering-database-design-best-practices-and-pitfalls-1op)
-          <!-- BLOG-POST-LIST:END -->
           
           <!-- Let's Connect -->
    <h2 id="lets-connect">
