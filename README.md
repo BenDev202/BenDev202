@@ -222,7 +222,6 @@ const developer = {
            <div align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" />
             <img src="https://streak-stats.demolab.com/?user=BenDev202&theme=tokyonight&hide_border=true" alt="GitHub Streak" align="center" />
-
           </div>
           <br/>
           <p align="center">
