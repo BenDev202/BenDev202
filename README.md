@@ -81,30 +81,6 @@ const developer = {
   </table>
 </div>
 
-<!-- Skill Bars -->
-
-<h2>
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30">
-  Skills & Expertise
-</h2>
-
-<div align="center">
-  <h3>Backend Development</h3>
-  <img src="https://img.shields.io/badge/PHP-90%25-777BB4" width="40%">
-  <img src="https://img.shields.io/badge/Node.js-85%25-339933" width="40%">
-  <img src="https://img.shields.io/badge/MySQL-80%25-4479A1" width="40%">
-  <img src="https://img.shields.io/badge/MongoDB-75%25-47A248" width="40%">
-  <img src="https://img.shields.io/badge/API%20Design-70%25-FF6C37" width="40%">
-
-  <h3>Frontend & DevOps</h3>
-  <img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E" width="40%">
-  <img src="https://img.shields.io/badge/HTML%2FCSS-75%25-E34F26" width="40%">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-70%25-06B6D4" width="40%">
-  <img src="https://img.shields.io/badge/Docker-65%25-2496ED" width="40%">
-  <img src="https://img.shields.io/badge/CI%2FCD-60%25-4285F4" width="80%">
-</div>
-
-
 <!-- Featured Projects with Animation -->
 
 <h2 id="featured-projects">
@@ -158,52 +134,7 @@ const developer = {
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📊 Data Analytics Dashboard</h3>
-      <p align="center">
-        <a href="https://github.com/BenDev202/analytics-dashboard" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BenDev202&repo=analytics-dashboard&theme=tokyonight&hide_border=true" width="100%" alt="Analytics Dashboard"/>
-        </a>
-      </p>
-      <p align="center">
-        <strong>JavaScript, Chart.js, Node.js, Express.js</strong>
-      </p>
-      <p align="center">
-        Interactive data visualization dashboard with real-time analytics and customizable reports.
-      </p>
-      <p align="center">
-     <img src="https://img.shields.io/badge/View_Code-20232A?style=for-the-badge&logo=github&logoColor=61DAFB"/>
-                  </a>
-                  <a href="https://analytics-dashboard-demo.vercel.app" target="_blank">
-                    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-                  </a>
-                </p>
-              </td>
-              <td width="50%">
-                <h3 align="center">🛒 E-Commerce Platform</h3>
-                <p align="center">
-                  <a href="https://github.com/BenDev202/ecommerce-platform" target="_blank">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BenDev202&repo=ecommerce-platform&theme=tokyonight&hide_border=true" width="100%" alt="E-Commerce Platform"/>
-                  </a>
-                </p>
-                <p align="center">
-                  <strong>PHP, Laravel, MySQL, Vue.js</strong>
-                </p>
-                <p align="center">
-                  Full-featured e-commerce platform with product management, user authentication, and payment integration.
-                </p>
-                <p align="center">
-                  <a href="https://github.com/BenDev202/ecommerce-platform" target="_blank">
-                    <img src="https://img.shields.io/badge/View_Code-20232A?style=for-the-badge&logo=github&logoColor=61DAFB"/>
-                  </a>
-                  <a href="https://ecommerce-platform-demo.vercel.app" target="_blank">
-                    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-                  </a>
-                </p>
-              </td>
-            </tr>
-          </table>
+</table>
 </div>       
           <!-- GitHub Stats -->
           <h2 id="github-statistics">
@@ -215,10 +146,6 @@ const developer = {
             <img src="https://streak-stats.demolab.com/?user=BenDev202&theme=tokyonight&hide_border=true" alt="GitHub Streak" align="center" />
           </div>
           <br/>
-          <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&theme=radical" alt="GitHub Stats" />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev202&layout=compact&theme=radical" alt="Top Languages" />
-          </p>
 
    <h2 id="lets-connect">
             <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
