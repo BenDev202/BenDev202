@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EC4B6&height=200&section=header&text=Benjamin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20from%20Rwanda&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EC4B6&height=200&section=header&text=Armand Benjamin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20from%20Rwanda&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <h1 align="center">
@@ -76,7 +76,7 @@
         <p align="center">
           An AI-powered mock interview platform to help job seekers practice technical interviews
           <br><br>
-          <a href="https://github.com/BenDev202/ai-mock-interview">
+          <a href="https://github.com/BenDev202/ai_mock_interviews.git">
             <img src="https://img.shields.io/badge/View%20Project-2EC4B6?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
           </a>
         </p>
@@ -86,7 +86,7 @@
         <p align="center">
           A real-time messaging application with modern UI and end-to-end encryption
           <br><br>
-          <a href="https://github.com/BenDev202/chat-app">
+          <a href="https://github.com/BenDev202/chat-app-php-and-mysql">
             <img src="https://img.shields.io/badge/View%20Project-2EC4B6?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
           </a>
         </p>
@@ -106,7 +106,7 @@
   <a href="https://twitter.com/your-handle">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:armandbenjamin30@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
 </div>
