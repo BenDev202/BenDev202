@@ -1,170 +1,68 @@
-<div align="center">
-  <img src="https://github.com/BenDev202/BenDev202/blob/main/Black%20and%20Gray%20Minimalist%20LinkedIn%20Banner.png" alt="BenDev202 Banner" width="100%" />
+<h1 align="center">
+  Hi there 👋, I'm Benjamin
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-  <!-- Animated typing effect -->
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%9A%80+Learn.+Build.+Deploy.;Full+Stack+Developer;PHP+%26+Node.js+Expert;Backend+Specialist" alt="Typing SVG" />
-  </h1>
-  <h3>Turning Ideas into Production-Ready Applications</h3>
-
-  <!-- Animated social badges -->
-  <p>
-    <a href="https://github.com/BenDev202">
-      <img src="https://img.shields.io/github/followers/BenDev202?label=Followers&logo=GitHub&style=for-the-badge&labelColor=181717&color=181717" alt="GitHub" />
-    </a>
-    <a href="https://twitter.com/armand_benjamin50">
-      <img src="https://img.shields.io/twitter/follow/armand_benjamin50?logo=twitter&style=for-the-badge&labelColor=1DA1F2&color=1DA1F2&logoColor=white" alt="Twitter" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=BenDev202&style=for-the-badge&color=6C63FF" alt="Profile Views" />
-  </p>
-
-  <!-- Animated wave -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
-</div>
-
-<!-- About Me Section with Animation -->
-<h2 id="about-me">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
-  About Me
-</h2>
-
-```javascript
-const developer = {
-  name: "Rukizangabo Armand Benjamin",
-  location: "Rwanda 🇷🇼",
-  role: "Full Stack Developer",
-  focus: ["Scalable Solutions", "Backend Systems", "Cloud Architecture"],
-  currentlyLearning: ["DevOps", "Cloud Native"],
-  hobbies: ["Coding", "Music", "Reading"],
-  funFact: "I can debug code faster than I can find my keys in the morning!"
-};
-```
-<p>
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  💻 <b>Full Stack Developer</b> passionate about scalable solutions.<br>
-  🎯 Building efficient backend systems with PHP & Node.js.<br>
-  🌍 Based in <b>Rwanda</b>, actively contributing to tech projects.<br>
-  🤝 Open to collaborations and opportunities!<br>
-  ⚡ Always exploring new technologies and methodologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2EC4B6&center=true&vCenter=true&width=435&lines=Full-stack+Web+Developer;Backend+Engineer+%7C+PHP+%2B+Node.js;Lifelong+Learner+%7C+Tech+Explorer" />
 </p>
 
-<br clear="both">
+---
 
-<!-- Current Focus Section -->
-<h2>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> 
-  Current Focus
-</h2>
+## 🚀 About Me
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" alt="Coding">
-        <br>
-        <h3>Learning</h3>
-        <p>Advanced Cloud Architecture, Kubernetes, and Microservices</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="100%" alt="Projects">
-        <br>
-        <h3>Building</h3>
-        <p>Scalable backend systems and enterprise-level applications</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Collaboration">
-        <br>
-        <h3>Collaborating</h3>
-        <p>Open to partnerships on innovative tech projects</p>
-      </td>
-    </tr>
-  </table>
-</div>
+- 💻 I’m a passionate **developer** and entrepreneur from Rwanda.
+- 🧠 I’m currently learning **PHP**, **Node.js**, and **React**.
+- 👨‍🏫 I teach web development and work on real-world SaaS projects.
+- 🌱 Building **CodeArena** – a platform for developers to test and improve skills.
+- 🧩 I love solving coding challenges and working on impactful tech.
 
-<!-- Featured Projects with Animation -->
+---
 
-<h2 id="featured-projects">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 
-  Featured Projects
-</h2><div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎵 Music Streaming Platform</h3>
-      <p align="center">
-        <a href="https://github.com/BenDev202/music-app" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BenDev202&repo=music-app&theme=tokyonight&hide_border=true" width="100%" alt="Music App"/>
-        </a>
-      </p>
-      <p align="center">
-        <strong>PHP, Node.js, MongoDB, Express.js</strong>
-      </p>
-      <p align="center">
-        Advanced music streaming platform with playlist creation, artist discovery, and real-time streaming capabilities.
-      </p>
-      <p align="center">
-        <a href="https://github.com/BenDev202/music-app" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-20232A?style=for-the-badge&logo=github&logoColor=61DAFB"/>
-        </a>
-        <a href="https://music-app-demo.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚛 Smart Transport Management System</h3>
-      <p align="center">
-        <a href="https://github.com/BenDev202/Transport-Management-System" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BenDev202&repo=Transport-Management-System&theme=tokyonight&hide_border=true" width="100%" alt="Transport System"/>
-        </a>
-      </p>
-      <p align="center">
-        <strong>PHP, MySQL, JavaScript, Tailwind CSS</strong>
-      </p>
-      <p align="center">
-        Comprehensive transport management system with vehicle tracking, route optimization, and logistics management.
-      </p>
-      <p align="center">
-        <a href="https://github.com/BenDev202/Transport-Management-System" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-20232A?style=for-the-badge&logo=github&logoColor=61DAFB"/>
-        </a>
-        <a href="https://transport-system-demo.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-</div>       
-          <!-- GitHub Stats -->
-          <h2 id="github-statistics">
-            <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 
-            GitHub Statistics
-          </h2>
-           <div align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" />
-          </div>
-          <br/>
+## 🛠️ Tech Stack
 
-   <h2 id="lets-connect">
-            <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-            Let's Connect!
-          </h2>
-          
-  <p align="center">
-            <a href="https://twitter.com/armand_benjamin50" target="_blank">
-              <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-            </a>
-            <a href="https://www.linkedin.com/in/armand-benjamin-rukizangabo" target="_blank">
-              <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-            </a>
-            <a href="https://dev.to/bendev202" target="_blank">
-              <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-            </a>
-          </p>
-          
- <p align="center">Feel free to reach out for collaborations or just a friendly chat! 😊</p>
-          
-  <div align="center">
-            <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
-          </div>
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenDev202&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🧠 Currently Working On
+
+- 🔨 CodeArena – a coding platform for developers.
+- 📈 Improving backend logic using PHP and MySQL.
+- 🌐 Collaborating with others to build real-world applications.
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/your-link/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:your.email@example.com)
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BenDev202&theme=radical&row=1&no-bg=true&margin-w=20" />
+</p>
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=BenDev202&label=Profile+Views&color=blue&style=flat" alt="profile views" />
+</p>
