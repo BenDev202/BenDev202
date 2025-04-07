@@ -12,10 +12,9 @@
 ## 🚀 About Me
 
 - 💻 I’m a passionate **developer** and entrepreneur from Rwanda.
-- 🧠 I’m currently learning **PHP**, **Node.js**, and **React**.
-- 👨‍🏫 I teach web development and work on real-world SaaS projects.
-- 🌱 Building **CodeArena** – a platform for developers to test and improve skills.
-- 🧩 I love solving coding challenges and working on impactful tech.
+- 🧠 Currently learning **PHP**, **Node.js**, and **React/Next.js**.
+- 🎯 Building **CodeArena** – a platform for developers to test and improve skills.
+- 🧩 I love solving coding challenges and creating meaningful tech products.
 
 ---
 
@@ -26,7 +25,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 
@@ -44,8 +45,9 @@
 ## 🧠 Currently Working On
 
 - 🔨 CodeArena – a coding platform for developers.
-- 📈 Improving backend logic using PHP and MySQL.
-- 🌐 Collaborating with others to build real-world applications.
+- 💡 Learning **advanced frontend** with Next.js.
+- 🎨 Designing user experiences with Figma.
+- 🌐 Collaborating with teams on real-world SaaS apps.
 
 ---
 
