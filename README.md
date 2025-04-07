@@ -72,22 +72,22 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🔨 CodeArena</h3>
+        <h3 align="center">🤖 AI Mock Interview</h3>
         <p align="center">
-          A coding platform for developers to test and improve their skills
+          An AI-powered mock interview platform to help job seekers practice technical interviews
           <br><br>
-          <a href="https://github.com/BenDev202/codearena">
+          <a href="https://github.com/BenDev202/ai-mock-interview">
             <img src="https://img.shields.io/badge/View%20Project-2EC4B6?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
           </a>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">💡 Advanced Frontend</h3>
+        <h3 align="center">💬 Chat App</h3>
         <p align="center">
-          Learning advanced frontend development with Next.js
+          A real-time messaging application with modern UI and end-to-end encryption
           <br><br>
-          <a href="https://github.com/BenDev202/frontend-projects">
-            <img src="https://img.shields.io/badge/View%20Projects-2EC4B6?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
+          <a href="https://github.com/BenDev202/chat-app">
+            <img src="https://img.shields.io/badge/View%20Project-2EC4B6?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
           </a>
         </p>
       </td>
