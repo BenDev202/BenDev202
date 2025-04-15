@@ -103,7 +103,7 @@
   <a href="https://www.linkedin.com/in/your-link/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-handle">
+  <a href="https://twitter.com/@ArmandBenjmain">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
   </a>
   <a href="mailto:armandbenjamin30@gmail.com">
