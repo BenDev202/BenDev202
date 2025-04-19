@@ -27,7 +27,6 @@
 
 - 💻 I'm a passionate **developer** and entrepreneur from Rwanda.
 - 🧠 Currently learning **PHP**, **Node.js**, and **React/Next.js**.
-- 🎯 Building **CodeArena** – a platform for developers to test and improve skills.
 - 🧩 I love solving coding challenges and creating meaningful tech products.
 
 ---
