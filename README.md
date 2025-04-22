@@ -6,10 +6,6 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2EC4B6&center=true&vCenter=true&width=435&lines=Full-stack+Web+Developer;Backend+Engineer+%7C+PHP+%2B+Node.js;Lifelong+Learner+%7C+Tech+Explorer" />
-</p>
-
 <div align="center">
   <a href="https://github.com/BenDev202">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
