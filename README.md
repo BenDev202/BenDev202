@@ -79,7 +79,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,nextjs,mysql,figma,git,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,nextjs,reactjs,mysql,figma,git,vscode&perline=5" />
 </div>
 
 ---
