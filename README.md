@@ -69,6 +69,7 @@
       <td valign="top" width="33%">
         <h3 align="center">Tools</h3>
         <div align="center">
+          <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman" />
           <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
           <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
           <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VS Code" />
@@ -79,7 +80,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,nextjs,react,mysql,figma,git,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,nextjs,react,mysql,postman,,figma,git,vscode&perline=5" />
 </div>
 
 ---
