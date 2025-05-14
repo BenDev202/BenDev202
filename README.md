@@ -81,10 +81,161 @@
 
 
 
-<!-- Skill Radar Chart -->
+<!-- Animated Skill Icons Section -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2000&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=false&width=435&lines=Skills+%26+Expertise" alt="Skills & Expertise" />
+</h2>
+
 <div align="center">
-  <h3>Skill Distribution</h3>
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BenDev202&skills=JavaScript,TypeScript,React,HTML,CSS,PHP,NodeJS&width=820&bg=0D1117&textColor=D4AF37&legendColor=D4AF37&branchColor=D4AF37" width="70%" />
+  <!-- Frontend Skills -->
+  <h3>Frontend Development</h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#html5">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>JavaScript
+        <br>⭐⭐⭐⭐⭐
+      </td>
+      <td align="center" width="96">
+        <a href="#css3">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>React
+        <br>⭐⭐⭐⭐
+      </td>
+      <td align="center" width="96">
+        <a href="#js">
+          <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Next.js
+        <br>⭐⭐⭐⭐
+      </td>
+      <td align="center" width="96">
+        <a href="#html5">
+          <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>CSS/SASS
+        <br>⭐⭐⭐⭐⭐
+      </td>
+      <td align="center" width="96">
+        <a href="#bootstrap">
+          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        </a>
+        <br>HTML5
+        <br>⭐⭐⭐⭐⭐
+      </td>
+      <td align="center" width="96">
+        <a href="#tailwind">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        </a>
+        <br>Tailwind
+        <br>⭐⭐⭐⭐
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Backend Skills -->
+  <h3>Backend Development</h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="96"> 
+        <a href="#php" >
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+        </a>
+        <br>MySQL
+        <br>⭐⭐⭐⭐
+      </td>
+      <td align="center" width="96">
+        <a href="#nodejs">
+          <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Node.js
+        <br>⭐⭐⭐⭐
+      </td>
+      <td align="center" width="96">
+        <a href="#php">
+          <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+        </a>
+        <br>PHP
+        <br>⭐⭐⭐⭐
+      </td>
+      <td align="center" width="96">
+        <a href="#expressjs">
+          <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="ExpressJS" />
+        </a>
+        <br>Express.js
+        <br>⭐⭐⭐
+      </td>
+      <td align="center" width="96">
+        <a href="#mongodb">
+          <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        </a>
+        <br>MongoDB
+        <br>⭐⭐⭐
+      </td>
+      <td align="center" width="96">
+        <a href="#graphql">
+          <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+        </a>
+        <br>GraphQL
+        <br>⭐⭐
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Tools & Technologies -->
+  <h3>Tools & Technologies</h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#git" >
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        </a>
+        <br>GitHub
+        <br>⭐⭐⭐⭐⭐
+      </td>
+      <td align="center" width="96">
+        <a href="#git">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
+        </a>
+        <br>Docker
+        <br>⭐⭐⭐
+      </td>
+      <td align="center" width="96">
+        <a href="#git" >
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
+        </a>
+        <br>AWS
+        <br>⭐⭐⭐
+      </td>
+      <td align="center" width="96">
+        <a href="#postman">
+          <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+        </a>
+        <br>Postman
+        <br>⭐⭐⭐⭐
+      </td>
+      <td align="center" width="96">
+        <a href="#vscode">
+          <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+        </a>
+        <br>VS Code
+        <br>⭐⭐⭐⭐⭐
+      </td>
+      <td align="center" width="96">
+        <a href="#figma">
+          <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        </a>
+        <br>Figma
+        <br>⭐⭐⭐⭐
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
