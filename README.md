@@ -45,216 +45,42 @@
 
 ## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30px"> Tech Stack
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2000&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=false&width=435&lines=Skills+%26+Expertise" alt="Skills & Expertise" />
-</h2>
-
 <div align="center">
-  <!-- Frontend Skills -->
-  <h3>Frontend Development</h3>
-  
   <table>
     <tr>
-      <td align="center" width="96">
-        <a href="#html5">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-        </a>
-        <br>JavaScript
-        <br>⭐⭐⭐⭐⭐
+      <td valign="top" width="33%">
+        <h3 align="center">Frontend</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
+          <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
+          <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+         <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
+          <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
+        </div>
       </td>
-      <td align="center" width="96">
-        <a href="#css3">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-        </a>
-        <br>React
-        <br>⭐⭐⭐⭐
+      <td valign="top" width="33%">
+        <h3 align="center">Backend</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
+          <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
+          <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+        </div>
       </td>
-      <td align="center" width="96">
-        <a href="#js">
-          <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-        </a>
-        <br>Next.js
-        <br>⭐⭐⭐⭐
-      </td>
-      <td align="center" width="96">
-        <a href="#html5">
-          <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
-        </a>
-        <br>CSS/SASS
-        <br>⭐⭐⭐⭐⭐
-      </td>
-      <td align="center" width="96">
-        <a href="#bootstrap">
-          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        </a>
-        <br>HTML5
-        <br>⭐⭐⭐⭐⭐
-      </td>
-      <td align="center" width="96">
-        <a href="#tailwind">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-        </a>
-        <br>Tailwind
-        <br>⭐⭐⭐⭐
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Backend Skills -->
-  <h3>Backend Development</h3>
-  
-  <table>
-    <tr>
-      <td align="center" width="96"> 
-        <a href="#php" >
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
-        </a>
-        <br>MySQL
-        <br>⭐⭐⭐⭐
-      </td>
-      <td align="center" width="96">
-        <a href="#nodejs">
-          <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
-        </a>
-        <br>Node.js
-        <br>⭐⭐⭐⭐
-      </td>
-      <td align="center" width="96">
-        <a href="#php">
-          <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-        </a>
-        <br>PHP
-        <br>⭐⭐⭐⭐
-      </td>
-      <td align="center" width="96">
-        <a href="#expressjs">
-          <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="ExpressJS" />
-        </a>
-        <br>Express.js
-        <br>⭐⭐⭐
-      </td>
-      <td align="center" width="96">
-        <a href="#mongodb">
-          <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        </a>
-        <br>MongoDB
-        <br>⭐⭐⭐
-      </td>
-      <td align="center" width="96">
-        <a href="#graphql">
-          <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-        </a>
-        <br>GraphQL
-        <br>⭐⭐
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Tools & Technologies -->
-  <h3>Tools & Technologies</h3>
-  
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <a href="#git" >
-          <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-        </a>
-        <br>GitHub
-        <br>⭐⭐⭐⭐⭐
-      </td>
-      <td align="center" width="96">
-        <a href="#git">
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
-        </a>
-        <br>Docker
-        <br>⭐⭐⭐
-      </td>
-      <td align="center" width="96">
-        <a href="#git" >
-          <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
-        </a>
-        <br>AWS
-        <br>⭐⭐⭐
-      </td>
-      <td align="center" width="96">
-        <a href="#postman">
-          <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        </a>
-        <br>Postman
-        <br>⭐⭐⭐⭐
-      </td>
-      <td align="center" width="96">
-        <a href="#vscode">
-          <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-        </a>
-        <br>VS Code
-        <br>⭐⭐⭐⭐⭐
-      </td>
-      <td align="center" width="96">
-        <a href="#figma">
-          <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        </a>
-        <br>Figma
-        <br>⭐⭐⭐⭐
+      <td valign="top" width="33%">
+        <h3 align="center">Tools</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman" />
+          <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
+          <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+          <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VS Code" />
+        </div>
       </td>
     </tr>
   </table>
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px"> Learning Roadmap
-
 <div align="center">
-  <h3>Skills I'm Planning to Learn Next</h3>
-  
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <a href="#typescript">
-          <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-        </a>
-        <br>TypeScript
-        <br><span style="color:#2EC4B6">▓▓▓░░</span>
-      </td>
-      <td align="center" width="96">
-        <a href="#python">
-          <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        </a>
-        <br>Python
-        <br><span style="color:#2EC4B6">▓░░░░</span>
-      </td>
-      <td align="center" width="96">
-        <a href="#vue">
-          <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-        </a>
-        <br>Vue.js
-        <br><span style="color:#2EC4B6">▓▓░░░</span>
-      </td>
-      <td align="center" width="96">
-        <a href="#flutter">
-          <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-        </a>
-        <br>Flutter
-        <br><span style="color:#2EC4B6">▓░░░░</span>
-      </td>
-      <td align="center" width="96">
-        <a href="#rust">
-          <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
-        </a>
-        <br>Rust
-        <br><span style="color:#2EC4B6">░░░░░</span>
-      </td>
-    </tr>
-  </table>
-
-  <div style="max-width: 600px; margin: 0 auto; padding: 10px; border-radius: 8px; background-color: rgba(46, 196, 182, 0.1); border: 1px solid #2EC4B6;">
-    <p>🎯 <strong>Short-term Goals (3-6 months):</strong> Mastering TypeScript and improving Vue.js skills</p>
-    <p>🚀 <strong>Mid-term Goals (6-12 months):</strong> Learning Python for data analysis and AI applications</p>
-    <p>🔮 <strong>Long-term Goals (1-2 years):</strong> Exploring Flutter for cross-platform mobile development and Rust for systems programming</p>
-  </div>
-  
-  <img src="https://progress-bar.dev/25/?title=Learning%20Progress&width=400&color=2EC4B6" alt="Learning Progress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,nextjs,react,mysql,postman,,figma,git,vscode&perline=5" />
 </div>
 
 ---
