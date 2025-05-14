@@ -45,43 +45,6 @@
 
 ## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30px"> Tech Stack
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">Frontend</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
-          <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
-          <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
-         <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
-          <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Backend</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
-          <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
-          <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Tools</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman" />
-          <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
-          <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
-          <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VS Code" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-<!-- Animated Skill Icons Section -->
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2000&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=false&width=435&lines=Skills+%26+Expertise" alt="Skills & Expertise" />
 </h2>
@@ -115,9 +78,9 @@
       </td>
       <td align="center" width="96">
         <a href="#html5">
-          <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
+          <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="icon" width="65" height="65" />
         </a>
-        <br>CSS/SASS
+        <br>CSS
         <br>⭐⭐⭐⭐⭐
       </td>
       <td align="center" width="96">
@@ -177,13 +140,6 @@
         <br>MongoDB
         <br>⭐⭐⭐
       </td>
-      <td align="center" width="96">
-        <a href="#graphql">
-          <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-        </a>
-        <br>GraphQL
-        <br>⭐⭐
-      </td>
     </tr>
   </table>
   
@@ -236,10 +192,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,nextjs,react,mysql,postman,,figma,git,vscode&perline=5" />
 </div>
 
 ---
