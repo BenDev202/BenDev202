@@ -119,23 +119,50 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BenDev202&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37" alt="Most Used Languages" />
 </div>
 
+<!-- Skill Progress Bars - Alternative HTML Version -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2000&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=false&width=435&lines=Skill+Proficiency" alt="Skill Proficiency" />
+</h2>
+
 <div align="center">
   <h3>Frontend Development</h3>
+  
   <p>HTML/CSS</p>
-  <img src="https://progress-bar.dev/90/?width=500&height=20&color=D4AF37" alt="HTML/CSS 90%" />
+  <div style="background-color: #444; width: 500px; height: 20px; border-radius: 10px; margin: 0 auto;">
+    <div style="background-color: #D4AF37; width: 90%; height: 100%; border-radius: 10px;">
+      <span style="padding-left: 10px; color: white;">90%</span>
+    </div>
+  </div>
   
   <p>JavaScript</p>
-  <img src="https://progress-bar.dev/85/?width=500&height=20&color=D4AF37" alt="JavaScript 85%" />
+  <div style="background-color: #444; width: 500px; height: 20px; border-radius: 10px; margin: 0 auto;">
+    <div style="background-color: #D4AF37; width: 85%; height: 100%; border-radius: 10px;">
+      <span style="padding-left: 10px; color: white;">85%</span>
+    </div>
+  </div>
   
   <p>React/Next.js</p>
-  <img src="https://progress-bar.dev/80/?width=500&height=20&color=D4AF37" alt="React/Next.js 80%" />
+  <div style="background-color: #444; width: 500px; height: 20px; border-radius: 10px; margin: 0 auto;">
+    <div style="background-color: #D4AF37; width: 80%; height: 100%; border-radius: 10px;">
+      <span style="padding-left: 10px; color: white;">80%</span>
+    </div>
+  </div>
   
   <h3>Backend Development</h3>
+  
   <p>PHP</p>
-  <img src="https://progress-bar.dev/75/?width=500&height=20&color=D4AF37" alt="PHP 75%" />
+  <div style="background-color: #444; width: 500px; height: 20px; border-radius: 10px; margin: 0 auto;">
+    <div style="background-color: #D4AF37; width: 75%; height: 100%; border-radius: 10px;">
+      <span style="padding-left: 10px; color: white;">75%</span>
+    </div>
+  </div>
   
   <p>Node.js</p>
-  <img src="https://progress-bar.dev/70/?width=500&height=20&color=D4AF37" alt="Node.js 70%" />
+  <div style="background-color: #444; width: 500px; height: 20px; border-radius: 10px; margin: 0 auto;">
+    <div style="background-color: #D4AF37; width: 70%; height: 100%; border-radius: 10px;">
+      <span style="padding-left: 10px; color: white;">70%</span>
+    </div>
+  </div>
 </div>
 
 <br/>
