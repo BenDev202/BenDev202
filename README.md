@@ -78,9 +78,9 @@
       </td>
       <td align="center" width="96">
         <a href="#html5">
-          <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="icon" width="65" height="65" />
+          <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
         </a>
-        <br>CSS
+        <br>CSS/SASS
         <br>⭐⭐⭐⭐⭐
       </td>
       <td align="center" width="96">
@@ -140,6 +140,13 @@
         <br>MongoDB
         <br>⭐⭐⭐
       </td>
+      <td align="center" width="96">
+        <a href="#graphql">
+          <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+        </a>
+        <br>GraphQL
+        <br>⭐⭐
+      </td>
     </tr>
   </table>
   
@@ -192,6 +199,62 @@
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px"> Learning Roadmap
+
+<div align="center">
+  <h3>Skills I'm Planning to Learn Next</h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#typescript">
+          <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+        </a>
+        <br>TypeScript
+        <br><span style="color:#2EC4B6">▓▓▓░░</span>
+      </td>
+      <td align="center" width="96">
+        <a href="#python">
+          <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        </a>
+        <br>Python
+        <br><span style="color:#2EC4B6">▓░░░░</span>
+      </td>
+      <td align="center" width="96">
+        <a href="#vue">
+          <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+        </a>
+        <br>Vue.js
+        <br><span style="color:#2EC4B6">▓▓░░░</span>
+      </td>
+      <td align="center" width="96">
+        <a href="#flutter">
+          <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+        </a>
+        <br>Flutter
+        <br><span style="color:#2EC4B6">▓░░░░</span>
+      </td>
+      <td align="center" width="96">
+        <a href="#rust">
+          <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+        </a>
+        <br>Rust
+        <br><span style="color:#2EC4B6">░░░░░</span>
+      </td>
+    </tr>
+  </table>
+
+  <div style="max-width: 600px; margin: 0 auto; padding: 10px; border-radius: 8px; background-color: rgba(46, 196, 182, 0.1); border: 1px solid #2EC4B6;">
+    <p>🎯 <strong>Short-term Goals (3-6 months):</strong> Mastering TypeScript and improving Vue.js skills</p>
+    <p>🚀 <strong>Mid-term Goals (6-12 months):</strong> Learning Python for data analysis and AI applications</p>
+    <p>🔮 <strong>Long-term Goals (1-2 years):</strong> Exploring Flutter for cross-platform mobile development and Rust for systems programming</p>
+  </div>
+  
+  <img src="https://progress-bar.dev/25/?title=Learning%20Progress&width=400&color=2EC4B6" alt="Learning Progress" />
 </div>
 
 ---
