@@ -34,7 +34,6 @@
 </div>
 
 * 💻 I'm a passionate **developer** and entrepreneur from Rwanda.
-* 🧠 Currently learning **PHP**, **Node.js**, and **React/Next.js**.
 * 🧩 I love solving coding challenges and creating meaningful tech products.
 * 🌱 Always exploring new technologies and methodologies.
 * 🚀 Working on innovative projects that make a difference.
