@@ -7,6 +7,13 @@
 
 ---
 
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <img src="https://github.com/BenDev202/BenDev202/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+</div>
+
+---
+
 <!-- METRICS -->
 <div align="center">
   <img src="https://github.com/BenDev202/BenDev202/blob/master/github-metrics.svg" alt="Metrics" width="100%">

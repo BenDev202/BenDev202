@@ -30,6 +30,7 @@ jobs:
           config_display: large
           config_padding: 0, 8 + 11%
           config_timezone: Africa/Kigali
+          config_theme: night
           
           # Plugin: IsoCalendar (3D Contribution Graph)
           plugin_isocalendar: yes
