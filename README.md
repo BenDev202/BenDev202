@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EC4B6&height=230&section=header&text=Armand%20Benjamin&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Entrepreneur%20%7C%20Innovator&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=230&section=header&text=Armand%20Benjamin&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Entrepreneur%20%7C%20Innovator&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <h3 align="center">💡 Building Scalable Solutions | 🌍 From Rwanda | 🚀 Focused on Innovation</h3>
@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=2EC4B6&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Entrepreneur+%26+Innovator;Creative+Problem+Solver;Driven+to+Build+Impactful+Products" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Entrepreneur+%26+Innovator;Creative+Problem+Solver;Driven+to+Build+Impactful+Products" alt="Typing SVG"/>
 </div>
 
 ---
@@ -51,5 +51,5 @@
 <div align="center">
   <h3>✨ Thanks for Visiting ✨</h3>
   <p>Keep pushing boundaries. Keep learning. Keep building.</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EC4B6&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer" width="100%"/>
 </div>

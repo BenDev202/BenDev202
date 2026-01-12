@@ -57,6 +57,15 @@ jobs:
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
 
+          # Plugin: Stargazers
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: classic
+
+          # Plugin: People
+          plugin_people: yes
+          plugin_people_types: followers, following
+
           # Plugin: Topics (Mastered Technologies)
           plugin_topics: yes
           plugin_topics_limit: 15
