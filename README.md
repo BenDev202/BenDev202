@@ -14,9 +14,12 @@
 
 ---
 
-<!-- LANGUAGES -->
+<!-- TROPHIES & STREAK -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=FFFFFF&icon_color=8E2DE2" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BenDev202&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1&column=7" alt="Trophies" width="100%" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenDev202&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=8E2DE2&currStreakLabel=8E2DE2" alt="Streak Stats" />
 </div>
 
 ---
