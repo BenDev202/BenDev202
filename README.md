@@ -21,6 +21,14 @@
 
 ---
 
+<!-- TECH STACK -->
+<h3 align="center">🛠️ Tech Stack</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,php,nodejs,mysql,git,figma,postman,vscode&perline=6" />
+</div>
+
+---
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Entrepreneur+%26+Innovator;Creative+Problem+Solver;Driven+to+Build+Impactful+Products" alt="Typing SVG"/>
 </div>
