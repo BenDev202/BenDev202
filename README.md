@@ -14,9 +14,9 @@
 
 ---
 
-<!-- METRICS -->
+<!-- LANGUAGES -->
 <div align="center">
-  <img src="https://github.com/BenDev202/BenDev202/blob/master/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=FFFFFF&icon_color=8E2DE2" alt="Top Languages" />
 </div>
 
 ---
