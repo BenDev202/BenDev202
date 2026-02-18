@@ -54,7 +54,7 @@ const armandBenjamin = {
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BenDev202&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&row=1&column=7" alt="Trophies" width="100%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=BenDev202&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&row=1&column=6&title=Stars,Commits,Followers,Repositories,PullRequest,Issues" alt="Trophies" width="100%"/>
   </a>
 </div>
 
@@ -64,17 +64,21 @@ const armandBenjamin = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=ffffff&rank_icon=github" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=ffffff&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=ffffff&langs_count=8&exclude_repo=" height="180" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=BenDev202&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2&sideLabels=ffffff&dates=888888" alt="GitHub Streak" width="60%"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenDev202&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2&sideLabels=ffffff&dates=888888" alt="GitHub Streak" width="60%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BenDev202&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=ffffff&layout=compact" alt="Wakatime Stats" width="60%"/>
 </div>
 
 ---
