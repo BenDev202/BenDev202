@@ -50,35 +50,51 @@ const armandBenjamin = {
 
 ---
 
-<!-- TROPHIES -->
+<!-- GITHUB QUICK STATS -->
+## 📊 GitHub at a Glance
+
 <div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BenDev202&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&row=1&column=6&title=Stars,Commits,Followers,Repositories,PullRequest,Issues" alt="Trophies" width="100%"/>
-  </a>
+
+  ![Stars](https://img.shields.io/github/stars/BenDev202?style=for-the-badge&logo=github&color=8E2DE2&labelColor=0D1117&label=Total%20Stars)
+  &nbsp;
+  ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBenDev202&query=%24.public_repos&style=for-the-badge&logo=github&color=4A00E0&labelColor=0D1117&label=Public%20Repos)
+  &nbsp;
+  ![Followers](https://img.shields.io/github/followers/BenDev202?style=for-the-badge&logo=github&color=8E2DE2&labelColor=0D1117&label=Followers)
+
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
+<!-- WHAT I'M BUILDING -->
+## 🚀 What I'm Currently Building
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=ffffff&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=ffffff&langs_count=8&exclude_repo=" height="180" alt="Top Languages"/>
+
+| Project | Description | Stack |
+|:-------:|:-----------:|:-----:|
+| 🌍 **LMS SaaS app** | LMS SaaS app featuring user authentication, subscriptions, and payments using Next.js, Supabase, and Stripe — also integrates Vapi AI voice agent for seamless, interactive learning sessions. | Next.js · Supabase · Stripe |
+| 📱 **gsap-game-website** | GSAP Game Website A visually dynamic and interactive game landing page powered by GSAP (GreenSock Animation Platform). This project demonstrates high-performance web animations, fluid transitions, and smooth interactions. | React.js · Gsap · Tailwind CSS |
+| 🛒 **cocktails-bar** |A modern cocktail website built with React and TailwindCSS, featuring smooth GSAP animations such as SplitText reveals, scroll-triggered effects, parallax scrolling, and a custom carousel. | React.js · Gsap · Tailwind CSS |
+
 </div>
 
-<br/>
+---
+
+<!-- MY VALUES -->
+## 💡 My Developer Philosophy
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenDev202&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2&sideLabels=ffffff&dates=888888" alt="GitHub Streak" width="60%"/>
-</div>
 
-<br/>
+```
+╔══════════════════════════════════════════════════════════╗
+║  🎯  Ship fast, iterate faster                           ║
+║  🧱  Build for scale from day one                        ║
+║  🌍  Technology should solve real African problems       ║
+║  🤝  Collaboration > Competition                         ║
+║  📚  Never stop learning                                 ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BenDev202&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=ffffff&layout=compact" alt="Wakatime Stats" width="60%"/>
 </div>
 
 ---
@@ -104,11 +120,21 @@ const armandBenjamin = {
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Activity
+<!-- OPEN SOURCE -->
+## 🤝 Open Source & Collaboration
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenDev202&theme=tokyo-night&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff&hide_border=true&area=true&area_color=8E2DE2" width="100%" alt="Activity Graph"/>
+
+  ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-8E2DE2?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
+  &nbsp;
+  ![Open Source](https://img.shields.io/badge/Open%20Source-Lover-4A00E0?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117)
+  &nbsp;
+  ![Hire Me](https://img.shields.io/badge/Available%20for-Freelance-brightgreen?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=0D1117)
+
+  <br/>
+
+  > *"The best way to predict the future is to build it."* — Alan Kay
+
 </div>
 
 ---
