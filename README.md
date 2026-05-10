@@ -1,258 +1,221 @@
-<!-- ========================= -->
-<!--        HERO SECTION       -->
-<!-- ========================= -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=200&color=0:060B14,50:0F1D36,100:0A0F1E&text=Armand%20Benjamin&fontSize=52&fontColor=58A6FF&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Engineer%20%E2%80%94%20SaaS%20Architect%20%E2%80%94%20UI%20Craftsman&descAlignY=62&descSize=16&descColor=8B98B0&stroke=58A6FF&strokeWidth=1"/>
+
+</div>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,25:1E293B,50:2563EB,75:7C3AED,100:9333EA&text=Armand%20Benjamin&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20SaaS%20Builder%20•%20UI%20Engineer&descAlignY=58&descSize=18"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Engineering+products+people+love+to+use.;Building+SaaS+that+scales+from+day+one.;Turning+complex+ideas+into+clean+interfaces.;Shipping+at+the+intersection+of+design+%26+code." />
+
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+modern+digital+products;Crafting+high-performance+web+experiences;Focused+on+scalable+SaaS+applications;Frontend+engineering+with+strong+UI%2FUX+thinking"/>
+<div align="center">
 
-<br/><br/>
-
-<a href="mailto:armandbenjamin30@gmail.com">
-<img src="https://img.shields.io/badge/Contact%20Me-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/BenDev202">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/@ArmandBenjmain">
-<img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=BenDev202&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+[![Gmail](https://img.shields.io/badge/armandbenjamin30%40gmail.com-0A0F1E?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:armandbenjamin30@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/BenDev202-0A0F1E?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/BenDev202)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/@ArmandBenjmain-0A0F1E?style=flat-square&logo=x&logoColor=58A6FF)](https://twitter.com/@ArmandBenjmain)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=BenDev202&label=Profile+Views&color=0A0F1E&labelColor=0A0F1E&style=flat-square)](https://github.com/BenDev202)
 
 </div>
 
 ---
 
-# About Me
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B98B0&ring_color=58A6FF"/>
+
+### Who I Am
 
 ```ts
 const armand = {
-  location: "Kigali, Rwanda",
-  role: "Full-Stack Developer",
-  specialization: [
-    "SaaS Platforms",
-    "Modern Web Applications",
-    "Frontend Architecture",
-    "Interactive UI Engineering"
-  ],
-  currentFocus: [
-    "System Design",
-    "Cloud Architecture",
-    "AI Integration",
-    "Scalable Products"
-  ]
-}
+  location : "Kigali, Rwanda 🇷🇼",
+  role     : "Full-Stack Developer",
+
+  builds   : ["SaaS Platforms", "Interactive Web Apps",
+               "AI-powered Products", "UI Systems"],
+
+  currently: ["System Design", "Cloud Architecture",
+               "Motion Design", "Scalable Backends"],
+
+  belief   : "Great products are built at the intersection
+               of engineering quality and exceptional UX."
+};
 ```
 
-I build modern, scalable, and performance-focused web applications with strong attention to user experience, motion design, and clean architecture.
+I design and engineer modern web products — with deep focus on **frontend architecture**, **scalable SaaS**, and interfaces that actually *feel* great to use.
 
-My goal is to create products that combine:
-- engineering quality,
-- exceptional UI,
-- scalability,
-- and real business value.
+Every project I ship is built to last: clean code, performance-first, and designed with the end user in mind.
+
+<br clear="right"/>
 
 ---
 
-# Core Expertise
+## ⚡ Core Stack
 
 <div align="center">
 
-| Frontend Engineering | Backend Development | Product Development |
-|---|---|---|
-| React.js | Node.js | SaaS MVPs |
-| Next.js | Supabase | Startup Products |
-| TypeScript | PostgreSQL | Scalable Apps |
-| GSAP Animations | Firebase | UI Systems |
-| Tailwind CSS | APIs | AI Integration |
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma&theme=dark"/>
+
+<br/><br/>
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,supabase,firebase,prisma,php&theme=dark"/>
+
+<br/><br/>
+
+**DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,postman,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-# Featured Projects
-
-<div align="center">
+## 🏗️ Featured Work
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## LMS SaaS Platform
+### 📚 LMS SaaS Platform
 
-Modern LMS SaaS application featuring:
-- Authentication
-- Subscription billing
-- Stripe payments
-- AI voice integration
+> A full-featured Learning Management System with modern SaaS architecture.
 
-### Stack
-`Next.js` `Supabase` `Stripe`
+- 🔐 Authentication & role management
+- 💳 Subscription billing via **Stripe**
+- 🤖 AI voice integration
+- 📊 Student progress tracking
+
+**Stack:** `Next.js` · `Supabase` · `Stripe` · `TypeScript`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🍸 Cocktail Bar Experience
 
-## GSAP Interactive Experience
+> Immersive animated brand site with cinematic UI motion.
 
-High-performance animated website with:
-- immersive transitions,
-- smooth interactions,
-- advanced scroll animations,
-- responsive layouts.
+- ✂️ SplitText character animations
+- 🎞️ Parallax depth scrolling
+- 🎠 Custom carousel with inertia
+- 📱 Fully responsive
 
-### Stack
-`React.js` `GSAP` `Tailwind`
+**Stack:** `React.js` · `GSAP` · `Tailwind CSS`
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## Cocktails Bar Website
+### 🎬 GSAP Interactive Experience
 
-Interactive animated UI experience featuring:
-- SplitText animations,
-- parallax effects,
-- smooth transitions,
-- custom carousel interactions.
+> High-performance web experience engineered for delight.
 
-### Stack
-`React.js` `GSAP` `Tailwind`
+- 🌊 Immersive scroll-driven transitions
+- ⚡ 60fps animations throughout
+- 🖥️ Advanced page orchestration
+- 🎨 Custom cursor & interactions
+
+**Stack:** `React.js` · `GSAP` · `Tailwind CSS`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🧩 Modern UI System
 
-## Modern UI Systems
+> Scalable component library built for design consistency.
 
-Reusable frontend components and modern layouts focused on:
-- responsiveness,
-- performance,
-- accessibility,
-- visual consistency.
+- ♿ Accessibility-first architecture
+- 📐 Systematic spacing & tokens
+- 🎨 Dark/light theming
+- 🚀 Performance optimized
 
-### Focus
-`UI/UX` `Performance` `Design Systems`
+**Focus:** `UI/UX` · `Design Systems` · `Component APIs`
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-# Technology Stack
+## 📊 GitHub Analytics
 
 <div align="center">
 
-## Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma"/>
-
-<br/><br/>
-
-## Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,supabase,firebase,php,prisma"/>
-
-<br/><br/>
-
-## DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,postman,vscode"/>
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev202&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=BenDev202&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Engineering Mindset
-
-<div align="center">
-
-```txt
-• Build for scale from the beginning
-• Design interfaces users remember
-• Prioritize performance and simplicity
-• Focus on product quality over hype
-• Ship consistently and iterate rapidly
-```
-
-</div>
-
----
-
-# Current Focus
-
-- Building scalable SaaS products
-- Advanced frontend engineering
-- Motion design for the web
-- AI-powered user experiences
-- System architecture
-
----
-
-# Open to Collaboration
-
-I’m available for:
-- SaaS Development
-- Frontend Engineering
-- Startup MVP Development
-- UI/UX Implementation
-- Freelance Projects
-- Product Collaborations
-
----
-
-# Connect With Me
-
-<div align="center">
-
-<a href="mailto:armandbenjamin30@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/BenDev202">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/@ArmandBenjmain">
-<img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## Building modern products for the future of the web.
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=BenDev202&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF&sideLabels=8B98B0&dates=8B98B0&sideNums=58A6FF&currStreakNum=FFFFFF"/>
+&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev202&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B98B0&langs_count=8"/>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,25:1E293B,50:2563EB,75:7C3AED,100:9333EA"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BenDev202&bg_color=0D1117&color=58A6FF&line=1F4E79&point=58A6FF&area=true&area_color=1F3A5F&hide_border=true&radius=6"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=BenDev202&theme=algolia&no-frame=true&row=1&column=7&margin-w=8"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                    ROADMAP  //  2025                    │
+├─────────────────────────────────────────────────────────┤
+│  ▸  Shipping a production SaaS from zero to revenue     │
+│  ▸  Deepening expertise in system & cloud architecture  │
+│  ▸  Crafting advanced GSAP motion systems               │
+│  ▸  Integrating AI features into web products           │
+│  ▸  Building in public — documenting the journey        │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🤝 Open To Work
+
+I'm available for selective **freelance** and **collaboration** opportunities:
+
+| Type | Status |
+|---|---|
+| 🏗️ SaaS Product Development | ✅ Available |
+| ⚛️ Frontend / React Engineering | ✅ Available |
+| 🚀 Startup MVP Development | ✅ Available |
+| 🎨 UI/UX Implementation | ✅ Available |
+| 🔗 Product Collaboration | ✅ Available |
+
+---
+
+## 💬 Engineering Philosophy
+
+<div align="center">
+
+> *"Build for scale from day one. Design interfaces users remember.*
+> *Ship consistently. Never compromise on quality."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=120&section=footer&color=0:0A0F1E,50:0F1D36,100:060B14&reversal=true&stroke=1F4E79&strokeWidth=1"/>
+
+<sub>Crafted with precision — Kigali, Rwanda 🇷🇼</sub>
 
 </div>
