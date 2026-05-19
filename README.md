@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Engineering+products+people+love+to+use.;Building+SaaS+that+scales+from+day+one.;Turning+complex+ideas+into+clean+interfaces.;Shipping+at+the+intersection+of+design+%26+code." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Engineering+products+people+love+to+use.;Building+SaaS+that+scales+from+day+one.;Turning+complex+ideas+into+clean+interfaces.;Shipping+at+the+intersection+of+design+%26+code." />
 
 </div>
 
@@ -18,7 +18,7 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/BenDev202-0A0F1E?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/BenDev202)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/@ArmandBenjmain-0A0F1E?style=flat-square&logo=x&logoColor=58A6FF)](https://twitter.com/@ArmandBenjmain)
+[![Twitter](https://img.shields.io/badge/@ArmandBenjmain-0A0F1E?style=flat-square&logo=x&logoColor=58A6FF)](https://twitter.com/ArmandBenjmain)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=BenDev202&label=Profile+Views&color=0A0F1E&labelColor=0A0F1E&style=flat-square)](https://github.com/BenDev202)
 
@@ -36,12 +36,12 @@ const armand = {
   role     : "Full-Stack Developer",
 
   builds   : ["SaaS Platforms", "Interactive Web Apps",
-               "AI-powered Products", "UI Systems"],
+               "AI-Powered Products", "UI Systems"],
 
-  currently: ["System Design", "Cloud Architecture",
+  focus    : ["System Design", "Cloud Architecture",
                "Motion Design", "Scalable Backends"],
 
-  belief   : "Great products are built at the intersection
+  belief   : "Great products live at the intersection
                of engineering quality and exceptional UX."
 };
 ```
@@ -54,7 +54,7 @@ Every project I ship is built to last: clean code, performance-first, and design
 
 ---
 
-## ⚡ Core Stack
+## Core Stack
 
 <div align="center">
 
@@ -78,34 +78,34 @@ Every project I ship is built to last: clean code, performance-first, and design
 
 ---
 
-## 🏗️ Featured Work
+## Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 LMS SaaS Platform
+### LMS SaaS Platform
 
-> A full-featured Learning Management System with modern SaaS architecture.
+A full-featured Learning Management System built on modern SaaS architecture.
 
-- 🔐 Authentication & role management
-- 💳 Subscription billing via **Stripe**
-- 🤖 AI voice integration
-- 📊 Student progress tracking
+- Authentication & role-based access control
+- Subscription billing via **Stripe**
+- AI voice integration
+- Student progress tracking & analytics
 
 **Stack:** `Next.js` · `Supabase` · `Stripe` · `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-### 🍸 Cocktail Bar Experience
+### Cocktail Bar Experience
 
-> Immersive animated brand site with cinematic UI motion.
+Immersive animated brand site with cinematic UI motion.
 
-- ✂️ SplitText character animations
-- 🎞️ Parallax depth scrolling
-- 🎠 Custom carousel with inertia
-- 📱 Fully responsive
+- SplitText character animations
+- Parallax depth scrolling
+- Custom carousel with inertia physics
+- Fully responsive across all viewports
 
 **Stack:** `React.js` · `GSAP` · `Tailwind CSS`
 
@@ -114,28 +114,28 @@ Every project I ship is built to last: clean code, performance-first, and design
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 GSAP Interactive Experience
+### GSAP Interactive Experience
 
-> High-performance web experience engineered for delight.
+High-performance web experience engineered for delight.
 
-- 🌊 Immersive scroll-driven transitions
-- ⚡ 60fps animations throughout
-- 🖥️ Advanced page orchestration
-- 🎨 Custom cursor & interactions
+- Scroll-driven transitions with immersive depth
+- Consistent 60fps animations throughout
+- Advanced page orchestration
+- Custom cursor & micro-interactions
 
 **Stack:** `React.js` · `GSAP` · `Tailwind CSS`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Modern UI System
+### Modern UI System
 
-> Scalable component library built for design consistency.
+Scalable component library built for design consistency.
 
-- ♿ Accessibility-first architecture
-- 📐 Systematic spacing & tokens
-- 🎨 Dark/light theming
-- 🚀 Performance optimized
+- Accessibility-first architecture
+- Systematic spacing & design tokens
+- Dark/light theming support
+- Performance optimized output
 
 **Focus:** `UI/UX` · `Design Systems` · `Component APIs`
 
@@ -145,7 +145,7 @@ Every project I ship is built to last: clean code, performance-first, and design
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -161,17 +161,7 @@ Every project I ship is built to last: clean code, performance-first, and design
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=BenDev202&theme=algolia&no-frame=true&row=1&column=7&margin-w=8"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
+## Current Focus
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -187,21 +177,21 @@ Every project I ship is built to last: clean code, performance-first, and design
 
 ---
 
-## 🤝 Open To Work
+## Open To Work
 
-I'm available for selective **freelance** and **collaboration** opportunities:
+Available for selective **freelance** and **collaboration** opportunities:
 
-| Type | Status |
+| Engagement Type | Status |
 |---|---|
-| 🏗️ SaaS Product Development | ✅ Available |
-| ⚛️ Frontend / React Engineering | ✅ Available |
-| 🚀 Startup MVP Development | ✅ Available |
-| 🎨 UI/UX Implementation | ✅ Available |
-| 🔗 Product Collaboration | ✅ Available |
+| SaaS Product Development | ✅ Available |
+| Frontend / React Engineering | ✅ Available |
+| Startup MVP Development | ✅ Available |
+| UI/UX Implementation | ✅ Available |
+| Product Collaboration | ✅ Available |
 
 ---
 
-## 💬 Engineering Philosophy
+## Engineering Philosophy
 
 <div align="center">
 
@@ -216,6 +206,6 @@ I'm available for selective **freelance** and **collaboration** opportunities:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=120&section=footer&color=0:0A0F1E,50:0F1D36,100:060B14&reversal=true&stroke=1F4E79&strokeWidth=1"/>
 
-<sub>Crafted with precision — Kigali, Rwanda 🇷🇼</sub>
+<sub>Kigali, Rwanda 🇷🇼</sub>
 
 </div>
