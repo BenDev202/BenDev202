@@ -1,35 +1,84 @@
 <div align="center">
 
-<!-- Clean, solid header without gradients -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0D1117&text=Armand%20Benjamin&fontSize=52&fontColor=58A6FF&fontAlignY=40&desc=Full-Stack%20Engineer%20%E2%80%94%20SaaS%20Architect&descAlignY=60&descSize=18&descColor=8B98B0"/>
+# Hi there, I'm Armand Benjamin 👋
 
-<!-- High-contrast typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Engineering+scalable+SaaS+products.;Building+performant+frontend+architectures.;Turning+complex+logic+into+clean+UI.;Shipping+quality+code+at+the+speed+of+thought." />
+### Full-Stack Developer · Rwanda 🇷🇼
 
-<br/>
+*I build fast, modern, and polished digital experiences — from pixel-perfect web apps to native desktop software — for businesses across Africa and beyond.*
 
-<!-- Standardized Minimalist Badges -->
-[![Gmail](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:armandbenjamin30@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/BenDev202)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=58A6FF)](https://twitter.com/ArmandBenjmain)
-&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=BenDev202&label=Views&color=58A6FF&labelColor=0D1117&style=flat-square)](https://github.com/BenDev202)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HANDLE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BenDev202)
+
+![Profile Views](https://komarev.com/ghpvc/?username=BenDev202&style=for-the-badge&color=0e75b6)
 
 </div>
 
 ---
 
-### ⚡ About Me
+## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B98B0&ring_color=58A6FF"/>
+I'm a **Full-Stack Developer** based in **Kigali, Rwanda**, with a passion for crafting high-quality, performant applications — both on the web and desktop. I currently work at **[GadaPlus](https://gadaplus.com)**, a Rwanda-based technology and digital agency, where I help businesses build their digital presence.
 
-```ts
-const armand = {
-  location : "Kigali, Rwanda 🇷🇼",
-  role     : "Full-Stack Engineer",
-  focus    : ["SaaS Architecture", "System Design", "UI/UX Engineering"],
-  tools    : ["Next.js", "TypeScript", "Node.js", "Supabase"],
-  motto    : "Code for people, optimize for scale."
-};
+- 🔭 Currently building desktop apps with **Tauri** and web platforms with **Next.js**
+- 🌍 Focused on creating digital solutions for **African businesses**
+- 💼 Open to **freelance projects** and **full-time opportunities**
+- 🤝 Happy to collaborate on **open-source** projects
+- 📬 Reach me via [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE) or [Instagram](https://instagram.com/YOUR_INSTAGRAM_HANDLE)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Desktop
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Armand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenDev202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev202&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BenDev202&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Work Together
+
+Whether you need a **stunning web app**, a **cross-platform desktop tool**, or a **full digital presence** for your business — I'm available and ready.
+
+> 💼 Open to **freelance contracts**, **full-time roles**, and **open-source collaborations**.
+
+📩 **Best way to reach me:** [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+
+---
+
+<div align="center">
+
+*Built with purpose. Shipped with care.* 🚀
+
+</div>
