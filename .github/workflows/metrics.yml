@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: dkhokhlov/metrics@master
         with:
           # Your GitHub token
           # The following scopes are required:
