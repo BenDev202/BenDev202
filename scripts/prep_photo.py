@@ -1,67 +1,54 @@
-#!/usr/bin/env python3
-"""
-prep_photo.py — Prepare a photo for ASCII conversion.
-
-Removes the background, composites onto white, converts to grayscale,
-and applies CLAHE contrast enhancement to make the image convert
-to legible ASCII art.
-
-Usage:
-    python scripts/prep_photo.py source-photo.jpg
-
-Output:
-    source-prepped.png
-
-Dependencies (local only, NOT needed in CI):
-    pip install pillow numpy opencv-python rembg
-
-NOTE: rembg downloads a ~170 MB ONNX model on first run.
-      This requires network access to GitHub release assets.
-"""
-
 import sys
 import os
-import numpy as np
 import cv2
+import numpy as np
 from PIL import Image
-from rembg import remove
 
+def prep_photo(photo_path, output_path="source-prepped.png"):
+    # First, import rembg (only when needed, so we don't crash if it's not present for daily jobs)
+    try:
+        from rembg import remove
+    except ImportError as e:
+        print("Error: rembg is required for prep_photo.py. Install it using scripts/requirements.txt", file=sys.stderr)
+        raise e
 
-def main():
-    if len(sys.argv) < 2:
-        print("Usage: python scripts/prep_photo.py <photo_path>")
+    print(f"Loading image from {photo_path}...")
+    if not os.path.exists(photo_path):
+        print(f"Error: {photo_path} does not exist.", file=sys.stderr)
         sys.exit(1)
 
-    photo_path = sys.argv[1]
-    if not os.path.isfile(photo_path):
-        print(f"Error: file not found: {photo_path}")
-        sys.exit(1)
+    # Open image with PIL
+    input_image = Image.open(photo_path)
 
-    print(f"[1/4] Loading {photo_path}...")
-    with open(photo_path, "rb") as f:
-        input_bytes = f.read()
+    print("Removing background with rembg...")
+    # rembg expects a PIL image or numpy array and returns same type
+    no_bg_image = remove(input_image)
 
-    print("[2/4] Removing background (rembg)...")
-    output_bytes = remove(input_bytes)
-    fg = Image.open(__import__("io").BytesIO(output_bytes)).convert("RGBA")
+    print("Compositing onto a pure white background...")
+    # Create white canvas of the same size
+    white_bg = Image.new("RGBA", no_bg_image.size, (255, 255, 255, 255))
+    # Paste the transparent subject image onto the white background
+    # using the transparent image itself as the alpha mask
+    white_bg.paste(no_bg_image, (0, 0), no_bg_image)
 
-    # Composite onto pure white background so the background maps
-    # to the blank/space end of the ASCII density ramp.
-    print("[3/4] Compositing onto white background...")
-    white_bg = Image.new("RGBA", fg.size, (255, 255, 255, 255))
-    composite = Image.alpha_composite(white_bg, fg).convert("L")  # grayscale
+    # Convert to grayscale numpy array for OpenCV CLAHE processing
+    gray_image = cv2.cvtColor(np.array(white_bg), cv2.COLOR_RGBA2GRAY)
 
-    # Convert to numpy for OpenCV CLAHE
-    gray = np.array(composite)
-
-    print("[4/4] Applying CLAHE contrast enhancement...")
+    print("Applying CLAHE contrast enhancement...")
+    # Apply CLAHE to boost contrast locally
     clahe = cv2.createCLAHE(clipLimit=2.5, tileGridSize=(8, 8))
-    enhanced = clahe.apply(gray)
+    enhanced = clahe.apply(gray_image)
 
-    out_path = "source-prepped.png"
-    cv2.imwrite(out_path, enhanced)
-    print(f"Done → {out_path} ({enhanced.shape[1]}x{enhanced.shape[0]})")
-
+    # Save output image
+    cv2.imwrite(output_path, enhanced)
+    print(f"Successfully saved prepped photo to {output_path}")
 
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) < 2:
+        print("Usage: python scripts/prep_photo.py <photo_path> [output_path]")
+        sys.exit(1)
+
+    photo_input = sys.argv[1]
+    photo_output = sys.argv[2] if len(sys.argv) > 2 else "source-prepped.png"
+    prep_photo(photo_input, photo_output)
+

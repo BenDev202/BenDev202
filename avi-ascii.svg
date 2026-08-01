@@ -1,0 +1,325 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720.0 742.0" width="720.0" height="742.0">
+  <rect width="100%" height="100%" fill="#0d1117" />
+  <defs>
+    <clipPath id="cp-0">
+      <rect x="0" y="0.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.000s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-1">
+      <rect x="0" y="14.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.050s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-2">
+      <rect x="0" y="28.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.100s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-3">
+      <rect x="0" y="42.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.150s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-4">
+      <rect x="0" y="56.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.200s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-5">
+      <rect x="0" y="70.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.250s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-6">
+      <rect x="0" y="84.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.300s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-7">
+      <rect x="0" y="98.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.350s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-8">
+      <rect x="0" y="112.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.400s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-9">
+      <rect x="0" y="126.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.450s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-10">
+      <rect x="0" y="140.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.500s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-11">
+      <rect x="0" y="154.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.550s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-12">
+      <rect x="0" y="168.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.600s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-13">
+      <rect x="0" y="182.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.650s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-14">
+      <rect x="0" y="196.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.700s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-15">
+      <rect x="0" y="210.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.750s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-16">
+      <rect x="0" y="224.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.800s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-17">
+      <rect x="0" y="238.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.850s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-18">
+      <rect x="0" y="252.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.900s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-19">
+      <rect x="0" y="266.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="0.950s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-20">
+      <rect x="0" y="280.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.000s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-21">
+      <rect x="0" y="294.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.050s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-22">
+      <rect x="0" y="308.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.100s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-23">
+      <rect x="0" y="322.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.150s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-24">
+      <rect x="0" y="336.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.200s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-25">
+      <rect x="0" y="350.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.250s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-26">
+      <rect x="0" y="364.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.300s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-27">
+      <rect x="0" y="378.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.350s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-28">
+      <rect x="0" y="392.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.400s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-29">
+      <rect x="0" y="406.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.450s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-30">
+      <rect x="0" y="420.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.500s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-31">
+      <rect x="0" y="434.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.550s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-32">
+      <rect x="0" y="448.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.600s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-33">
+      <rect x="0" y="462.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.650s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-34">
+      <rect x="0" y="476.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.700s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-35">
+      <rect x="0" y="490.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.750s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-36">
+      <rect x="0" y="504.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.800s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-37">
+      <rect x="0" y="518.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.850s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-38">
+      <rect x="0" y="532.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.900s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-39">
+      <rect x="0" y="546.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="1.950s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-40">
+      <rect x="0" y="560.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="2.000s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-41">
+      <rect x="0" y="574.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="2.050s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-42">
+      <rect x="0" y="588.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="2.100s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-43">
+      <rect x="0" y="602.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="2.150s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-44">
+      <rect x="0" y="616.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="2.200s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-45">
+      <rect x="0" y="630.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="2.250s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-46">
+      <rect x="0" y="644.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="2.300s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-47">
+      <rect x="0" y="658.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="2.350s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-48">
+      <rect x="0" y="672.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="2.400s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-49">
+      <rect x="0" y="686.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="2.450s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-50">
+      <rect x="0" y="700.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="2.500s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-51">
+      <rect x="0" y="714.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="2.550s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="cp-52">
+      <rect x="0" y="728.0" width="0" height="14.0">
+        <animate attributeName="width" from="0" to="720.0" begin="2.600s" dur="0.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+  </defs>
+  <text xml:space="preserve" font-family="Courier New, Courier, monospace" font-size="12" font-weight="bold" fill="#c9d1d9">
+    <tspan x="0" y="11.0" clip-path="url(#cp-0)">                                                                                                    </tspan>
+    <tspan x="0" y="25.0" clip-path="url(#cp-1)">                                                                                                    </tspan>
+    <tspan x="0" y="39.0" clip-path="url(#cp-2)">                                                                                                    </tspan>
+    <tspan x="0" y="53.0" clip-path="url(#cp-3)">                                                                                                    </tspan>
+    <tspan x="0" y="67.0" clip-path="url(#cp-4)">                                                                                                    </tspan>
+    <tspan x="0" y="81.0" clip-path="url(#cp-5)">                                                                                                    </tspan>
+    <tspan x="0" y="95.0" clip-path="url(#cp-6)">                                                                                                    </tspan>
+    <tspan x="0" y="109.0" clip-path="url(#cp-7)">                                                                                                    </tspan>
+    <tspan x="0" y="123.0" clip-path="url(#cp-8)">                                                                                                    </tspan>
+    <tspan x="0" y="137.0" clip-path="url(#cp-9)">                                                                                                    </tspan>
+    <tspan x="0" y="151.0" clip-path="url(#cp-10)">                                            .`::-----:`.                                            </tspan>
+    <tspan x="0" y="165.0" clip-path="url(#cp-11)">                                       `-+c#%@@@@@@@@@@%#s*-`                                       </tspan>
+    <tspan x="0" y="179.0" clip-path="url(#cp-12)">                                    :*#%@@@@@@%%%%%%%%%@@@@@@#*-                                    </tspan>
+    <tspan x="0" y="193.0" clip-path="url(#cp-13)">                                 .=#@@@@%%%%%@@@@@@@@@@%%%%%%@@@#+`                                 </tspan>
+    <tspan x="0" y="207.0" clip-path="url(#cp-14)">                                =%@@%%%%@@@@@@@@@@@@@@@@@@@@@%%%@@%*.                               </tspan>
+    <tspan x="0" y="221.0" clip-path="url(#cp-15)">                              -#@@%%@@@%%%%%@@@@@@@@@@@@%%%%%@@@%%@@%+                              </tspan>
+    <tspan x="0" y="235.0" clip-path="url(#cp-16)">                             *@@%%@@%%%@@@@@%%%@@@@@@%%%@@@@@@%%@@%%@@s.                            </tspan>
+    <tspan x="0" y="249.0" clip-path="url(#cp-17)">                            s@%%@@%%@@@%###%@@@%@@@@%@@@%%##%@@@%%@@%%@#`                           </tspan>
+    <tspan x="0" y="263.0" clip-path="url(#cp-18)">                           s@%@@%%@@s=`     :+%@%%%%@%*:.    .-c@@%%@@%@%.                          </tspan>
+    <tspan x="0" y="277.0" clip-path="url(#cp-19)">                          +@%@@@@@%=   -++=:  .+@@@@c`  `=++-.  :#@@@@@%@s                          </tspan>
+    <tspan x="0" y="291.0" clip-path="url(#cp-20)">                         `%%%@%@#s:  `csssss*.  =sc*   =sssssc-  .cs@@@@%@-                         </tspan>
+    <tspan x="0" y="305.0" clip-path="url(#cp-21)">                         *@%@@%%+    `.......`   ..   .`......`.   -%%@@%%s                         </tspan>
+    <tspan x="0" y="319.0" clip-path="url(#cp-22)">                         s@%@@@%@s  .%@@%%%@@#  .%@:  *@@@%%@@@-  *@%@@@@%%.                        </tspan>
+    <tspan x="0" y="333.0" clip-path="url(#cp-23)">                         %@%@@@@%@-  :#@@@@%c.  *@@s   *%@@@@#=  `%%%@@@@%@:                        </tspan>
+    <tspan x="0" y="347.0" clip-path="url(#cp-24)">                         %@%@@@@%%%+.  .:-:.  `c@%%@s:   `--`   =%@%@@@@@%%:                        </tspan>
+    <tspan x="0" y="361.0" clip-path="url(#cp-25)">                         s%%@@@@@@%@%*-.   `-c%@%@@%@@s=`   .:+#@@%@@@@@%%%.                        </tspan>
+    <tspan x="0" y="375.0" clip-path="url(#cp-26)">                         +@%@@@@@@@%@@@@%%%@@@@%@@@@%%@@@%%%@@@@%%@@@@@@%%s                         </tspan>
+    <tspan x="0" y="389.0" clip-path="url(#cp-27)">                         .%%%@@@@@@@%%%@@@@%%%%@@@@@@@%%%@@@@%%%@@@@@@@@%@:                         </tspan>
+    <tspan x="0" y="403.0" clip-path="url(#cp-28)">                          =@%@@@@@@@@@@%@@@%%@@@@@@@@@@%%@@@%@@@@@@@@@@%@c                          </tspan>
+    <tspan x="0" y="417.0" clip-path="url(#cp-29)">                           *@%%@@@@@@%@%``+@@%%%%%%%%%%%@c`.s@%@@@@@@@%@s                           </tspan>
+    <tspan x="0" y="431.0" clip-path="url(#cp-30)">                            *@%%@@@@@@%%+  +%@@@@@@@@@@@c  :%%@@@@@@%%@s.                           </tspan>
+    <tspan x="0" y="445.0" clip-path="url(#cp-31)">                             =%@%%@@@@@%@c`  -+c####s*=.  +@@%@@@@%%@@*                             </tspan>
+    <tspan x="0" y="459.0" clip-path="url(#cp-32)">                              `s@@%%%@@@%@%s-.        .:c%@@@@@@%%@@#-                              </tspan>
+    <tspan x="0" y="473.0" clip-path="url(#cp-33)">                                -s@@@%%%@%@@@@%#sccc#%@@@@%%%%%%@@#=                                </tspan>
+    <tspan x="0" y="487.0" clip-path="url(#cp-34)">                                  :c%@@@%%%%%%@@@@@@@@%%%%%%@@@@s=                                  </tspan>
+    <tspan x="0" y="501.0" clip-path="url(#cp-35)">                                    .=c#@@@@@@@%%%%%%@@@@@@@%s+`                                    </tspan>
+    <tspan x="0" y="515.0" clip-path="url(#cp-36)">                                        `-*s#%%@@@@@@%%#s*=:.                                       </tspan>
+    <tspan x="0" y="529.0" clip-path="url(#cp-37)">                                              .`::::`..                                             </tspan>
+    <tspan x="0" y="543.0" clip-path="url(#cp-38)">                                                                                                    </tspan>
+    <tspan x="0" y="557.0" clip-path="url(#cp-39)">                                           ...````````....                                          </tspan>
+    <tspan x="0" y="571.0" clip-path="url(#cp-40)">                                 .:-=+*csss###%%%%%%%%####sscc++-:`.                                </tspan>
+    <tspan x="0" y="585.0" clip-path="url(#cp-41)">                           .-=*c##%%%%%######################%%%%%##sc+-`                           </tspan>
+    <tspan x="0" y="599.0" clip-path="url(#cp-42)">                       `=*s#%%%%####################################%%%%%#c=:                       </tspan>
+    <tspan x="0" y="613.0" clip-path="url(#cp-43)">                    :+c####ssssssssssssssssssssssssssssssssssssssssssssss####s*:.                   </tspan>
+    <tspan x="0" y="627.0" clip-path="url(#cp-44)">                 `+scccc*cccccccccccccccccccccccccccccccccccccccccccccccccc*ccccs*:                 </tspan>
+    <tspan x="0" y="641.0" clip-path="url(#cp-45)">               :*%%#ccccccccccccccccccc+``-cccccccccccccc=::=ccccccccccccccccccc#%%c-               </tspan>
+    <tspan x="0" y="655.0" clip-path="url(#cp-46)">             .*%%###ccccccccccccccccccs- +*cccccccccccccc++` cccccccccccccccccccs###%s:             </tspan>
+    <tspan x="0" y="669.0" clip-path="url(#cp-47)">            -#%#####cccccccccccccccccc-. cccccccccccccccccs- :ccccccccccccccccccs#####%+            </tspan>
+    <tspan x="0" y="683.0" clip-path="url(#cp-48)">           =%#######cccccccccccccccccc*: *ccccccccccccccccc: =ccccccccccccccccccs######%*           </tspan>
+    <tspan x="0" y="697.0" clip-path="url(#cp-49)">          `%########ccccccccccccccccccs=.*ccccccccccccccccc-.cccccccccccccccccccs#######%=          </tspan>
+    <tspan x="0" y="711.0" clip-path="url(#cp-50)">          c%########ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccs#########.         </tspan>
+    <tspan x="0" y="725.0" clip-path="url(#cp-51)">          ##########cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc#########%`         </tspan>
+    <tspan x="0" y="739.0" clip-path="url(#cp-52)">          s###############################################################################`         </tspan>
+  </text>
+</svg>

@@ -76,6 +76,7 @@ def parse_contributions(html: str) -> dict:
         level_str = td.get("data-level", "0")
         cell_id = td.get("id", "")
 
+
         if not date_str:
             continue
 
@@ -156,6 +157,11 @@ def compute_stats(days: list[dict]) -> dict:
 
 
 def main():
+
+    if len(sys.argv) < 2:
+        print("Usage: python scripts/fetch_contributions.py <username>")
+        sys.exit(1)
+
     if len(sys.argv) < 2:
         print("Usage: python scripts/fetch_contributions.py <username>")
         sys.exit(1)
@@ -207,3 +213,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
