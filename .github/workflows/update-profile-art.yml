@@ -1,12 +1,11 @@
 name: Update profile art
 
-on:
+"on":
   schedule:
-    - cron: "17 6 * * *"   # Run daily at 06:17 UTC
+    - cron: "17 6 * * *"   # ~06:17 UTC daily
   workflow_dispatch: {}
   push:
-    branches: [main, master]
-
+    branches: [main]
 
 permissions:
   contents: write
@@ -19,18 +18,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Install dependencies
-        run: pip install requests==2.32.3 beautifulsoup4==4.12.3
-
-      - name: Fetch contribution data
-        run: python scripts/fetch_contributions.py BenDev202
-
-      - name: Render heatmap SVG
-        run: python scripts/render_heatmap_svg.py
-
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-
+      - run: pip install -r scripts/requirements.txt
+      - run: python scripts/fetch_contributions.py
+      - run: python scripts/render_heatmap_svg.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh contribution graph [skip ci]"
           file_pattern: "data/contributions.json contrib-heatmap.svg"
