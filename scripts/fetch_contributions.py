@@ -156,17 +156,25 @@ def compute_stats(days: list[dict]) -> dict:
     }
 
 
+def get_default_username() -> str | None:
+    """Derive the username from the environment or current repo name."""
+    repo = os.environ.get("GITHUB_REPOSITORY")
+    if repo and "/" in repo:
+        return repo.split("/")[1]
+
+    cwd = os.path.basename(os.getcwd())
+    return cwd or None
+
+
 def main():
-
     if len(sys.argv) < 2:
-        print("Usage: python scripts/fetch_contributions.py <username>")
-        sys.exit(1)
+        username = get_default_username()
+        if not username:
+            print("Usage: python scripts/fetch_contributions.py <username>")
+            sys.exit(1)
+    else:
+        username = sys.argv[1]
 
-    if len(sys.argv) < 2:
-        print("Usage: python scripts/fetch_contributions.py <username>")
-        sys.exit(1)
-
-    username = sys.argv[1]
     html = fetch_contributions_html(username)
 
     print("Parsing contribution data...")

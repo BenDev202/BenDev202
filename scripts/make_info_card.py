@@ -35,16 +35,24 @@ SEPARATOR_COLOR = "#30363d"
 
 # ── Content ─────────────────────────────────────────────────────────
 # The user should customise these rows with their own real content.
-TITLE = "armand@github:~"
+
+
+def get_repo_username() -> str:
+    repo = os.environ.get("GITHUB_REPOSITORY")
+    if repo and "/" in repo:
+        return repo.split("/")[1]
+    return os.path.basename(os.getcwd()) or "github"
+
+
+TITLE = f"{get_repo_username()}@github:~"
 ROWS = [
-    ("OS",    "Full-Stack Developer"),
-    ("Now",   "Building @ GadaPlus"),
-    ("Stack", "React · Next.js · Tauri · Node"),
-    ("Focus", "Digital solutions for Africa"),
-    ("Loc",   "Kigali, Rwanda  🇷🇼"),
-    ("Lang",  "TypeScript · Python · PHP"),
-    ("Tools", "Git · Figma · VS Code · Supabase"),
-    ("Ask",   "armandbenjamin30@gmail.com"),
+    ("OS",        "GitHub Profile README"),
+    ("Now",       "Building an animated SVG profile"),
+    ("Stack",     "Python · SVG · GitHub Actions"),
+    ("Highlights","ASCII portrait + live heatmap"),
+    ("Status",    "Self-contained, no JavaScript"),
+    ("Repo",      get_repo_username()),
+    ("Contact",   "github.com/" + get_repo_username()),
 ]
 
 # ── Animation ───────────────────────────────────────────────────────
@@ -138,7 +146,7 @@ def build_svg() -> str:
             f'    <text x="28" y="{y}" '
             f'font-family="{FONT}" font-size="{FONT_SIZE}" '
             f'fill="{LABEL_COLOR}" font-weight="bold">'
-            f'{label}</text>'
+            f'{escape_xml(label)}</text>'
         )
         # Separator
         parts.append(
