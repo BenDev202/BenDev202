@@ -41,18 +41,21 @@ def get_repo_username() -> str:
     repo = os.environ.get("GITHUB_REPOSITORY")
     if repo and "/" in repo:
         return repo.split("/")[1]
-    return os.path.basename(os.getcwd()) or "github"
+    folder = os.path.basename(os.getcwd())
+    if folder in ("app", "workspace", "", "github"):
+        return "BenDev202"
+    return folder
 
 
 TITLE = f"{get_repo_username()}@github:~"
 ROWS = [
-    ("OS",        "GitHub Profile README"),
-    ("Now",       "Building an animated SVG profile"),
-    ("Stack",     "Python · SVG · GitHub Actions"),
-    ("Highlights","ASCII portrait + live heatmap"),
-    ("Status",    "Self-contained, no JavaScript"),
-    ("Repo",      get_repo_username()),
-    ("Contact",   "github.com/" + get_repo_username()),
+    ("Name",     "Armand Benjamin"),
+    ("Role",     "Full-Stack Developer"),
+    ("Location", "Kigali, Rwanda"),
+    ("Work",     "GadaPlus (gadaplus.com)"),
+    ("Stack",    "React · Next.js · Node · PHP · Tauri"),
+    ("Status",   "Open for freelance & full-time"),
+    ("Contact",  "armandbenjamin30@gmail.com"),
 ]
 
 # ── Animation ───────────────────────────────────────────────────────
@@ -150,13 +153,13 @@ def build_svg() -> str:
         )
         # Separator
         parts.append(
-            f'    <text x="{28 + 56}" y="{y}" '
+            f'    <text x="{28 + 80}" y="{y}" '
             f'font-family="{FONT}" font-size="{FONT_SIZE}" '
             f'fill="{SEPARATOR_COLOR}">│</text>'
         )
         # Value (muted white)
         parts.append(
-            f'    <text x="{28 + 72}" y="{y}" '
+            f'    <text x="{28 + 96}" y="{y}" '
             f'font-family="{FONT}" font-size="{FONT_SIZE}" '
             f'fill="{VALUE_COLOR}">{escape_xml(value)}</text>'
         )
