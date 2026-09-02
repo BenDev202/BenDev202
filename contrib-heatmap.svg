@@ -1480,9 +1480,13 @@
     <animate attributeName="opacity" from="0" to="1" begin="0.424s" dur="0.15s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.424s" dur="0.15s" fill="freeze"/>
   </rect>
-  <rect x="884" y="68" width="13" height="13" rx="2" ry="2" fill="#161b22" opacity="0">
+  <rect x="884" y="68" width="13" height="13" rx="2" ry="2" fill="#0e4429" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.432s" dur="0.15s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.432s" dur="0.15s" fill="freeze"/>
+  </rect>
+  <rect x="884" y="84" width="13" height="13" rx="2" ry="2" fill="#161b22" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.440s" dur="0.15s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.440s" dur="0.15s" fill="freeze"/>
   </rect>
   <text x="741" y="174" font-family="'Segoe UI', Ubuntu, Roboto, sans-serif" font-size="10" fill="#8b949e">Less</text>
   <rect x="773" y="163" width="13" height="13" rx="2" ry="2" fill="#161b22"/>
@@ -1492,5 +1496,5 @@
   <rect x="837" y="163" width="13" height="13" rx="2" ry="2" fill="#39d353"/>
   <rect x="853" y="163" width="13" height="13" rx="2" ry="2" fill="#69f0a0"/>
   <text x="873" y="174" font-family="'Segoe UI', Ubuntu, Roboto, sans-serif" font-size="10" fill="#8b949e">More</text>
-  <text x="52" y="178" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">701 contributions in the last year</text>
+  <text x="52" y="178" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">702 contributions in the last year</text>
 </svg>
