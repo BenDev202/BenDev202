@@ -1,42 +1,7 @@
 {
   "username": "BenDev202",
-  "fetched_at": "2026-10-10T12:38:30.312200Z",
+  "fetched_at": "2026-10-11T12:57:27.025782Z",
   "days": [
-    {
-      "date": "2025-10-05",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-06",
-      "count": 2,
-      "level": 1
-    },
-    {
-      "date": "2025-10-07",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-08",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-09",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-10",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-11",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-12",
       "count": 0,
@@ -1854,19 +1819,24 @@
     },
     {
       "date": "2026-10-10",
-      "count": 0,
-      "level": 0
+      "count": 3,
+      "level": 1
+    },
+    {
+      "date": "2026-10-11",
+      "count": 3,
+      "level": 1
     }
   ],
-  "total_last_year": 681,
-  "current_streak": 0,
-  "longest_streak": 70,
+  "total_last_year": 685,
+  "current_streak": 72,
+  "longest_streak": 72,
   "best_day": {
     "date": "2026-05-19",
     "count": 33
   },
   "monthly_totals": {
-    "2025-10": 2,
+    "2025-10": 0,
     "2025-11": 88,
     "2025-12": 68,
     "2026-01": 50,
@@ -1878,6 +1848,6 @@
     "2026-07": 32,
     "2026-08": 97,
     "2026-09": 62,
-    "2026-10": 75
+    "2026-10": 81
   }
 }
